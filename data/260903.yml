@@ -1,28 +1,30 @@
 about:
-  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  description:
+  |
+    Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
   license: Apache-2.0
   homepage: https://caddyserver.com
   head: 19be5d8
   archived: false
   latestVersion: v2.11.4
-  collectedAt: 2026-09-03T05:11:58Z
+  collectedAt: 2026-09-03T22:36:40Z
 timeline:
   created: 2015-01-13
   lastCommit: 2026-09-02
   lastRelease: 2026-06-03
 popularity:
-  star: 75428
+  star: 75456
   watcher: 868
-  fork: 4936
+  fork: 4939
   release: 136
   contributor: 440
-  pullRequest: 670
+  pullRequest: 671
   issue: 4611
 language:
   Go: 3172221
   HTML: 61464
   Shell: 407
-totalLine: 3234092
+totalBytes: 3234092
 recent:
   last30d:
     since: 2026-08-04
@@ -37,22 +39,22 @@ recent:
     release: 0
     mergedPR: 69
     openPR: 33
-    closedIssue: 33
-    openIssue: 17
+    closedIssue: 34
+    openIssue: 16
     commit: 76
   last180d:
     since: 2026-03-07
     release: 2
     mergedPR: 142
     openPR: 46
-    closedIssue: 95
-    openIssue: 26
+    closedIssue: 96
+    openIssue: 25
     commit: 165
   last360d:
     since: 2025-09-08
     release: 6
     mergedPR: 262
     openPR: 61
-    closedIssue: 211
-    openIssue: 49
+    closedIssue: 212
+    openIssue: 48
     commit: 323
