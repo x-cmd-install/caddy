@@ -7,7 +7,7 @@ about:
   head: 97a08d8
   archived: false
   latestVersion: v2.11.4
-  collectedAt: 2026-09-04T20:17:20Z
+  collectedAt: 2026-09-04T20:26:21Z
 timeline:
   created: 2015-01-13
   lastCommit: 2026-09-04
@@ -83,7 +83,7 @@ total:
   commit: 2672
 ---
 path: /home/runner/.x-repo/github.com/caddyserver/caddy
-collectedAt: 2026-09-04T20:17:22Z
+collectedAt: 2026-09-04T20:26:23Z
 loc:
   Go:
     code: 74986
