@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.4"
   latestRelease: "v2.11.4"
   latestPrerelease: "v2.11.0-beta.2"
-  collectedAt: 2026-09-10T20:21:54Z
+  collectedAt: 2026-09-10T23:24:20Z
 timeline:
   created: 2015-01-13
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-03
   lastPrerelease: 2026-01-06
 popularity:
-  star: 75622
+  star: 75626
   watcher: 866
   fork: 4951
   release: 136
@@ -85,7 +85,7 @@ total:
   commit: 2680
 ---
 path: /home/runner/.x-repo/github.com/caddyserver/caddy
-collectedAt: 2026-09-10T20:21:58Z
+collectedAt: 2026-09-10T23:24:24Z
 loc:
   Go:
     code: 76154
