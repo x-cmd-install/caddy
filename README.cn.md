@@ -12,6 +12,28 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 x install caddy
 ```
 
+## 代码规模
+
+合计: **80,997** 行代码（覆盖前 5 种语言、共 **359** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 76,154 | 19,993 | 11,116 | 349 |
+| Css | 2,827 | 9 | 0 | 1 |
+| Html | 1,995 | 38 | 47 | 4 |
+| Bitbake | 14 | 5 | 3 | 2 |
+| Php | 3 | 0 | 0 | 3 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **8.8 / 10**
+
+评分最低的几项:
+
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Vulnerabilities** (0/10) — 10 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/caddyserver/caddy>
@@ -23,6 +45,25 @@ x install caddy
 - **最新版本**: `v2.11.4` (2026-06-03)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 129 个
+
+## 流行度
+
+- **Star**: 75,622 · **Fork**: 4,951 · **开放 issue**: 4,617 · **贡献者**: 444
+
+## 累计统计
+
+- **发布数**: 136 · **已合并 PR**: 2419 · **开放 PR**: 78 · **已关闭 issue**: 4417 · **开放 issue**: 200 · **提交数**: 2680
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 24 | 21 | 9 | 8 | 29 |
+| last60d | 2026-07-12 | 0 | 53 | 29 | 21 | 11 | 56 |
+| 90d | 2026-06-12 | 0 | 71 | 36 | 34 | 16 | 77 |
+| last180d | 2026-03-14 | 2 | 147 | 48 | 93 | 25 | 172 |
+| 360d | 2025-09-15 | 6 | 266 | 63 | 212 | 46 | 328 |
+| last720d | 2024-09-20 | 17 | 459 | 74 | 534 | 121 | 591 |
 
 ## Release 资产
 
@@ -158,43 +199,24 @@ x install caddy
 | [caddy_2.11.4_windows_arm64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.4/caddy_2.11.4_windows_arm64.zip) | 15.0 MiB | `native/win/arm64` |
 | [caddy_2.11.4_windows_arm64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.4/caddy_2.11.4_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 75,614 · **Fork**: 4,951 · **开放 issue**: 4,617 · **贡献者**: 444
+在 [repology.org](https://repology.org/project/caddy) 上共有 **128** 个发行版报告此项目。**53** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 136 · **已合并 PR**: 2419 · **开放 PR**: 78 · **已关闭 issue**: 4417 · **开放 issue**: 200 · **提交数**: 2680
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 24 | 21 | 9 | 8 | 29 |
-| 90d | 2026-06-12 | 0 | 71 | 36 | 34 | 16 | 77 |
-| 360d | 2025-09-15 | 6 | 266 | 63 | 212 | 46 | 328 |
-
-## 代码规模
-
-合计: **80,997** 行代码（覆盖前 5 种语言、共 **359** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 76,154 | 19,993 | 11,116 | 349 |
-| Css | 2,827 | 9 | 0 | 1 |
-| Html | 1,995 | 38 | 47 | 4 |
-| Bitbake | 14 | 5 | 3 | 2 |
-| Php | 3 | 0 | 0 | 3 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **8.8 / 10**
-
-评分最低的几项:
-
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 10 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.11.4` | ✅ latest |
+| Debian 14 | `2.11.4` | ✅ latest |
+| Debian 13 | `2.6.2` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
+| Arch | `2.11.4` | ✅ latest |
+| Homebrew | `2.11.4` | ✅ latest |
+| Fedora rawhide | `2.11.4` | ✅ latest |
+| Nix unstable | `2.11.4` | ✅ latest |
+| Void | `2.11.4` | ✅ latest |
+| Alpine edge | `2.11.4` | ✅ latest |
+| openSUSE Tumbleweed | `2.11.4` | ✅ latest |
 
 ## 改进这些数据
 
@@ -205,4 +227,4 @@ caddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:06:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:22:08Z._

@@ -12,6 +12,28 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 x install caddy
 ```
 
+## Code insight
+
+Total: **80,997** lines of code across **359** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 76,154 | 19,993 | 11,116 | 349 |
+| Css | 2,827 | 9 | 0 | 1 |
+| Html | 1,995 | 38 | 47 | 4 |
+| Bitbake | 14 | 5 | 3 | 2 |
+| Php | 3 | 0 | 0 | 3 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.8 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Vulnerabilities** (0/10) — 10 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+
 ## Source
 
 - **Upstream**: <https://github.com/caddyserver/caddy>
@@ -23,6 +45,25 @@ x install caddy
 - **Latest**: `v2.11.4` (2026-06-03)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 129
+
+## Popularity
+
+- **Stars**: 75,622 · **Forks**: 4,951 · **Open issues**: 4,617 · **Contributors**: 444
+
+## Totals (cumulative)
+
+- **Releases**: 136 · **Merged PRs**: 2419 · **Open PRs**: 78 · **Closed issues**: 4417 · **Open issues**: 200 · **Commits**: 2680
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 24 | 21 | 9 | 8 | 29 |
+| last60d | 2026-07-12 | 0 | 53 | 29 | 21 | 11 | 56 |
+| 90d | 2026-06-12 | 0 | 71 | 36 | 34 | 16 | 77 |
+| last180d | 2026-03-14 | 2 | 147 | 48 | 93 | 25 | 172 |
+| 360d | 2025-09-15 | 6 | 266 | 63 | 212 | 46 | 328 |
+| last720d | 2024-09-20 | 17 | 459 | 74 | 534 | 121 | 591 |
 
 ## Release assets
 
@@ -158,43 +199,24 @@ x install caddy
 | [caddy_2.11.4_windows_arm64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.4/caddy_2.11.4_windows_arm64.zip) | 15.0 MiB | `native/win/arm64` |
 | [caddy_2.11.4_windows_arm64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.4/caddy_2.11.4_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 75,614 · **Forks**: 4,951 · **Open issues**: 4,617 · **Contributors**: 444
+Reported by **128** distros on [repology.org](https://repology.org/project/caddy). **53** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 136 · **Merged PRs**: 2419 · **Open PRs**: 78 · **Closed issues**: 4417 · **Open issues**: 200 · **Commits**: 2680
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 24 | 21 | 9 | 8 | 29 |
-| 90d | 2026-06-12 | 0 | 71 | 36 | 34 | 16 | 77 |
-| 360d | 2025-09-15 | 6 | 266 | 63 | 212 | 46 | 328 |
-
-## Code size
-
-Total: **80,997** lines of code across **359** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 76,154 | 19,993 | 11,116 | 349 |
-| Css | 2,827 | 9 | 0 | 1 |
-| Html | 1,995 | 38 | 47 | 4 |
-| Bitbake | 14 | 5 | 3 | 2 |
-| Php | 3 | 0 | 0 | 3 |
-
-## OpenSSF Scorecard
-
-Overall score: **8.8 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (0/10) — 10 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.11.4` | ✅ latest |
+| Debian 14 | `2.11.4` | ✅ latest |
+| Debian 13 | `2.6.2` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
+| Arch | `2.11.4` | ✅ latest |
+| Homebrew | `2.11.4` | ✅ latest |
+| Fedora rawhide | `2.11.4` | ✅ latest |
+| Nix unstable | `2.11.4` | ✅ latest |
+| Void | `2.11.4` | ✅ latest |
+| Alpine edge | `2.11.4` | ✅ latest |
+| openSUSE Tumbleweed | `2.11.4` | ✅ latest |
 
 ## Improve this data
 
@@ -205,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:06:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:22:07Z._
