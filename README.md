@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,622 · **Forks**: 4,951 · **Open issues**: 4,617 · **Contributors**: 444
+- **Stars**: 75,626 · **Forks**: 4,951 · **Open issues**: 4,617 · **Contributors**: 444
 
 ## Totals (cumulative)
 
@@ -227,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:22:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:24:43Z._
