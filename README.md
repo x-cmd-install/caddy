@@ -26,11 +26,12 @@ Total: **81,477** lines of code across **360** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **9.1 / 10**
+Overall score: **8.9 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
@@ -47,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,860 · **Forks**: 4,966 · **Open issues**: 4,621 · **Contributors**: 447
+- **Stars**: 75,833 · **Forks**: 4,968 · **Open issues**: 4,622 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 2427 · **Open PRs**: 83 · **Closed issues**: 4423 · **Open issues**: 198 · **Commits**: 2689
+- **Releases**: 136 · **Merged PRs**: 2427 · **Open PRs**: 88 · **Closed issues**: 4424 · **Open issues**: 198 · **Commits**: 2689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 28 | 26 | 13 | 8 | 35 |
-| last60d | 2026-07-19 | 0 | 53 | 32 | 19 | 10 | 62 |
-| 90d | 2026-06-19 | 0 | 74 | 41 | 35 | 15 | 76 |
-| last180d | 2026-03-21 | 2 | 149 | 52 | 91 | 24 | 179 |
-| 360d | 2025-09-22 | 6 | 270 | 67 | 212 | 45 | 336 |
-| last720d | 2024-09-27 | 17 | 462 | 79 | 532 | 120 | 595 |
+| 30d | 2026-08-19 | 0 | 27 | 31 | 13 | 7 | 35 |
+| last60d | 2026-07-20 | 0 | 53 | 37 | 20 | 9 | 62 |
+| 90d | 2026-06-20 | 0 | 73 | 46 | 36 | 15 | 76 |
+| last180d | 2026-03-22 | 2 | 149 | 57 | 90 | 24 | 179 |
+| 360d | 2025-09-23 | 6 | 270 | 72 | 213 | 45 | 336 |
+| last720d | 2024-09-28 | 17 | 462 | 84 | 532 | 120 | 595 |
 
 ## Release assets
 
@@ -207,4 +208,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:28:51Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:13:33Z._
