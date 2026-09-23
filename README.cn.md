@@ -4,7 +4,7 @@
 
 Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
-[![x-cmd/install — caddy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/caddy.svg?lang=zh)](https://x-cmd.com/install/caddy)
+[![x-cmd/install — caddy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/caddy.svg?lang=zh)](https://x-cmd.com/install/caddy)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install caddy
 
 ## 流行度
 
-- **Star**: 75,950 · **Fork**: 4,988 · **开放 issue**: 4,626 · **贡献者**: 449
+- **Star**: 76,004 · **Fork**: 4,991 · **开放 issue**: 4,628 · **贡献者**: 449
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 2429 · **开放 PR**: 93 · **已关闭 issue**: 4425 · **开放 issue**: 201 · **提交数**: 2691
+- **发布数**: 136 · **已合并 PR**: 2429 · **开放 PR**: 96 · **已关闭 issue**: 4426 · **开放 issue**: 202 · **提交数**: 2691
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 28 | 34 | 12 | 10 | 31 |
-| last60d | 2026-07-24 | 0 | 49 | 42 | 19 | 11 | 59 |
-| 90d | 2026-06-24 | 0 | 75 | 49 | 35 | 17 | 77 |
-| last180d | 2026-03-26 | 2 | 147 | 61 | 89 | 27 | 173 |
-| 360d | 2025-09-27 | 6 | 266 | 77 | 212 | 48 | 331 |
-| last720d | 2024-10-02 | 17 | 459 | 89 | 532 | 123 | 591 |
+| 30d | 2026-08-24 | 0 | 25 | 36 | 11 | 11 | 31 |
+| last60d | 2026-07-25 | 0 | 48 | 45 | 20 | 12 | 59 |
+| 90d | 2026-06-25 | 0 | 75 | 52 | 36 | 18 | 77 |
+| last180d | 2026-03-27 | 2 | 147 | 64 | 90 | 28 | 173 |
+| 360d | 2025-09-28 | 6 | 266 | 80 | 213 | 49 | 331 |
+| last720d | 2024-10-03 | 16 | 459 | 92 | 532 | 124 | 585 |
 
 ## Release 资产
 
@@ -208,4 +208,4 @@ caddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:22:52Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:21:00Z._

@@ -4,7 +4,7 @@
 
 Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
-[![x-cmd/install — caddy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/caddy.svg)](https://x-cmd.com/install/caddy)
+[![x-cmd/install — caddy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/caddy.svg)](https://x-cmd.com/install/caddy)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 75,950 · **Forks**: 4,988 · **Open issues**: 4,626 · **Contributors**: 449
+- **Stars**: 76,004 · **Forks**: 4,991 · **Open issues**: 4,628 · **Contributors**: 449
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 2429 · **Open PRs**: 93 · **Closed issues**: 4425 · **Open issues**: 201 · **Commits**: 2691
+- **Releases**: 136 · **Merged PRs**: 2429 · **Open PRs**: 96 · **Closed issues**: 4426 · **Open issues**: 202 · **Commits**: 2691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 28 | 34 | 12 | 10 | 31 |
-| last60d | 2026-07-24 | 0 | 49 | 42 | 19 | 11 | 59 |
-| 90d | 2026-06-24 | 0 | 75 | 49 | 35 | 17 | 77 |
-| last180d | 2026-03-26 | 2 | 147 | 61 | 89 | 27 | 173 |
-| 360d | 2025-09-27 | 6 | 266 | 77 | 212 | 48 | 331 |
-| last720d | 2024-10-02 | 17 | 459 | 89 | 532 | 123 | 591 |
+| 30d | 2026-08-24 | 0 | 25 | 36 | 11 | 11 | 31 |
+| last60d | 2026-07-25 | 0 | 48 | 45 | 20 | 12 | 59 |
+| 90d | 2026-06-25 | 0 | 75 | 52 | 36 | 18 | 77 |
+| last180d | 2026-03-27 | 2 | 147 | 64 | 90 | 28 | 173 |
+| 360d | 2025-09-28 | 6 | 266 | 80 | 213 | 49 | 331 |
+| last720d | 2024-10-03 | 16 | 459 | 92 | 532 | 124 | 585 |
 
 ## Release assets
 
@@ -208,4 +208,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:22:52Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:20:59Z._
