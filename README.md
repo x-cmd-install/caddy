@@ -14,11 +14,11 @@ x install caddy
 
 ## Code insight
 
-Total: **81,849** lines of code across **363** files in the top 5 languages.
+Total: **82,278** lines of code across **364** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 77,006 | 20,198 | 11,224 | 353 |
+| Go | 77,435 | 20,283 | 11,259 | 354 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 76,064 · **Forks**: 4,996 · **Open issues**: 4,629 · **Contributors**: 452
+- **Stars**: 76,084 · **Forks**: 5,002 · **Open issues**: 4,632 · **Contributors**: 452
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 2433 · **Open PRs**: 95 · **Closed issues**: 4428 · **Open issues**: 201 · **Commits**: 2695
+- **Releases**: 136 · **Merged PRs**: 2436 · **Open PRs**: 95 · **Closed issues**: 4431 · **Open issues**: 201 · **Commits**: 2698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 25 | 37 | 11 | 12 | 35 |
-| last60d | 2026-07-27 | 0 | 48 | 45 | 19 | 13 | 63 |
-| 90d | 2026-06-27 | 0 | 78 | 52 | 36 | 17 | 81 |
-| last180d | 2026-03-29 | 2 | 149 | 64 | 89 | 29 | 177 |
-| 360d | 2025-09-30 | 6 | 269 | 80 | 212 | 49 | 335 |
-| last720d | 2024-10-05 | 16 | 462 | 91 | 533 | 123 | 588 |
+| 30d | 2026-08-27 | 0 | 27 | 38 | 12 | 13 | 38 |
+| last60d | 2026-07-28 | 0 | 49 | 46 | 20 | 15 | 66 |
+| 90d | 2026-06-28 | 0 | 81 | 52 | 37 | 18 | 84 |
+| last180d | 2026-03-30 | 2 | 152 | 64 | 92 | 29 | 180 |
+| 360d | 2025-10-01 | 6 | 271 | 80 | 213 | 49 | 338 |
+| last720d | 2024-10-06 | 16 | 464 | 91 | 534 | 123 | 591 |
 
 ## Release assets
 
@@ -208,4 +208,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:27:55Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:32:19Z._
