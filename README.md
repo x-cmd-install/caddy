@@ -14,11 +14,11 @@ x install caddy
 
 ## Code insight
 
-Total: **82,600** lines of code across **367** files in the top 5 languages.
+Total: **82,779** lines of code across **367** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 77,757 | 20,343 | 11,301 | 357 |
+| Go | 77,936 | 20,383 | 11,318 | 357 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -26,12 +26,11 @@ Total: **82,600** lines of code across **367** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.9 / 10**
+Overall score: **9.3 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
@@ -43,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.4` (2026-06-03)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-30
 - **Assets in release**: 129
 
 ## Popularity
 
-- **Stars**: 76,172 · **Forks**: 5,018 · **Open issues**: 4,635 · **Contributors**: 453
+- **Stars**: 76,201 · **Forks**: 5,023 · **Open issues**: 4,638 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 2441 · **Open PRs**: 99 · **Closed issues**: 4434 · **Open issues**: 201 · **Commits**: 2703
+- **Releases**: 136 · **Merged PRs**: 2446 · **Open PRs**: 91 · **Closed issues**: 4439 · **Open issues**: 199 · **Commits**: 2710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 21 | 39 | 14 | 12 | 32 |
-| last60d | 2026-08-01 | 0 | 54 | 49 | 23 | 15 | 65 |
-| 90d | 2026-07-02 | 0 | 83 | 53 | 39 | 18 | 89 |
-| last180d | 2026-04-03 | 2 | 151 | 67 | 89 | 29 | 183 |
-| 360d | 2025-10-05 | 6 | 275 | 84 | 216 | 49 | 339 |
-| last720d | 2024-10-10 | 16 | 465 | 95 | 530 | 123 | 595 |
+| 30d | 2026-09-01 | 0 | 26 | 30 | 15 | 14 | 39 |
+| last60d | 2026-08-02 | 0 | 59 | 41 | 24 | 17 | 72 |
+| 90d | 2026-07-03 | 0 | 88 | 45 | 40 | 20 | 96 |
+| last180d | 2026-04-04 | 2 | 154 | 59 | 92 | 28 | 190 |
+| 360d | 2025-10-06 | 6 | 280 | 75 | 217 | 49 | 346 |
+| last720d | 2024-10-11 | 16 | 469 | 87 | 535 | 121 | 599 |
 
 ## Release assets
 
@@ -208,4 +207,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:06:36Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:20:25Z._
