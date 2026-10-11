@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:1f4ea4eee25bcd0c9d35b7910a9beea2c0bef600515b782a969598fec7867789",
-      "download_count": 190,
+      "download_count": 213,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:47Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_buildable-artifact.pem"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11549989,
       "digest": "sha256:b430516910839fbaf35c0a9e9df80d1e2e30aa792530293c39f4a97a1b2c9060",
-      "download_count": 341,
+      "download_count": 401,
       "created_at": "2026-10-03T05:52:34Z",
       "updated_at": "2026-10-03T05:52:35Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_buildable-artifact.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:8b3aa2931f980afbff2c2820629a27580da5b0bab2c27b98fb6cb9cff79a5690",
-      "download_count": 182,
+      "download_count": 203,
       "created_at": "2026-10-03T05:52:46Z",
       "updated_at": "2026-10-03T05:52:47Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_buildable-artifact.tar.gz.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6769,
       "digest": "sha256:5d27b76b95f496638d79208c55250317b8755fd9e90005f7466aa32956944a90",
-      "download_count": 16662,
+      "download_count": 20388,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:41Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:12ca5e7af1243812e999220d18b99eaa0c03783716956c72f8225ef2441872a0",
-      "download_count": 725,
+      "download_count": 1016,
       "created_at": "2026-10-03T05:52:56Z",
       "updated_at": "2026-10-03T05:52:56Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_checksums.txt.pem"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:d5c450713b138c8b9dd629b54355a69fa404ffc27d032808fdabe621f628db55",
-      "download_count": 691,
+      "download_count": 969,
       "created_at": "2026-10-03T05:52:55Z",
       "updated_at": "2026-10-03T05:52:56Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_checksums.txt.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:cd194523b192fb1523ff1ed3eb718d5b223424a4911f65c1b2b637d3e5c42e5a",
-      "download_count": 135,
+      "download_count": 158,
       "created_at": "2026-10-03T05:52:45Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_amd64.pem"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 144479,
       "digest": "sha256:02564b4e45b64e018704d7b24f06426709d99630457d2da60ce452604edb569e",
-      "download_count": 118,
+      "download_count": 135,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:40Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_amd64.sbom"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:4154f1d7baa5fdc7685911a8fc59faeaf2ba29afd6f7507bf0ff2ead714b3592",
-      "download_count": 127,
+      "download_count": 149,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_amd64.sbom.pem"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:d86c67f173f4638d86ecd7f08f82044b062674729c7f5b023d960b84280e250e",
-      "download_count": 111,
+      "download_count": 133,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:54Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_amd64.sbom.sig"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 18034726,
       "digest": "sha256:6268a1bbe2378733f8c58b9e778365eb77fd78e2ea3477aa937733335f2ca249",
-      "download_count": 121,
+      "download_count": 141,
       "created_at": "2026-10-03T05:52:31Z",
       "updated_at": "2026-10-03T05:52:32Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:f278117f0c26cbf8c8e37c2a60c0644a2e26c2b3510ee3b717fadd251f5da1a3",
-      "download_count": 108,
+      "download_count": 131,
       "created_at": "2026-10-03T05:52:45Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_amd64.tar.gz.sig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:99caeb87c3de94cb87b63195dc3ace554cd15f071e2efaa419ebd3c38605d127",
-      "download_count": 107,
+      "download_count": 129,
       "created_at": "2026-10-03T05:52:43Z",
       "updated_at": "2026-10-03T05:52:43Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_arm64.pem"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 144481,
       "digest": "sha256:8005c70038ee8c0d9b6f818e5d0b62b0b0389c1ad6c7dc1b1102f3734feb96dd",
-      "download_count": 99,
+      "download_count": 116,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:41Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_arm64.sbom"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:32fd1ec203457ba13d3bc5534ba686ea5f5e1ce43082c192b9df0dc48bc02ca5",
-      "download_count": 102,
+      "download_count": 124,
       "created_at": "2026-10-03T05:52:55Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_arm64.sbom.pem"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:1d813b7498984e413e2d90c7b6df16d9f7e4a37bc44ccb19e340686a289952f5",
-      "download_count": 116,
+      "download_count": 138,
       "created_at": "2026-10-03T05:52:55Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_arm64.sbom.sig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 16408011,
       "digest": "sha256:edb28ff159bbfdfeda42b27ef1b0877c1b46da1d7037c1b5e9a257d7db4d2b2c",
-      "download_count": 104,
+      "download_count": 122,
       "created_at": "2026-10-03T05:52:30Z",
       "updated_at": "2026-10-03T05:52:31Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:fa3f5db46fc0ea2412498fcc73f22f02b58b92f111ff5deb084bcaef1b2c29c3",
-      "download_count": 119,
+      "download_count": 141,
       "created_at": "2026-10-03T05:52:43Z",
       "updated_at": "2026-10-03T05:52:44Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_arm64.tar.gz.sig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:8ac704908c96cd2986c454a1b254a823a961794656c15a9344c34617556d4fdb",
-      "download_count": 117,
+      "download_count": 140,
       "created_at": "2026-10-03T05:52:44Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv6.pem"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 144180,
       "digest": "sha256:dc4ca18d6f47cc675a01cf6325f461c32aa14fa83e90ad6699d29b80522b42b6",
-      "download_count": 102,
+      "download_count": 118,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:40Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv6.sbom"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 3280,
       "digest": "sha256:979823c9308a5eefd0f2be2949e69ab92654deddc7187f11dd50c498dbaedc75",
-      "download_count": 115,
+      "download_count": 135,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv6.sbom.pem"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:82228a9a46454d07bdcbdcdc5baa1e83d8f0c6845e5e4ca7b81c06c8bf0cab53",
-      "download_count": 113,
+      "download_count": 133,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv6.sbom.sig"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 17079741,
       "digest": "sha256:7f956a602c7c9345c58c46d3e5318da43e445b0faca0ee4ff6be46b5ac6b93ff",
-      "download_count": 97,
+      "download_count": 113,
       "created_at": "2026-10-03T05:52:31Z",
       "updated_at": "2026-10-03T05:52:32Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv6.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:f92760b8271d70abfa3d1cdadb67ce56e33e56f2389bd3df2d9f30bb6410bb53",
-      "download_count": 89,
+      "download_count": 110,
       "created_at": "2026-10-03T05:52:44Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv6.tar.gz.sig"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:3cccf9ceb120c04b799e1cd109b02b9a3e4ff98e8b3de555c0cba8932324b6aa",
-      "download_count": 120,
+      "download_count": 139,
       "created_at": "2026-10-03T05:52:43Z",
       "updated_at": "2026-10-03T05:52:43Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv7.pem"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 144180,
       "digest": "sha256:e1237583bb2cdc774cb8dc4acf311fe4b248569839d0d6bb53cd509e2527794d",
-      "download_count": 91,
+      "download_count": 104,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:40Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv7.sbom"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:1fd70ef5a5a3c5c8b464469fc347dc5ebd0af33223990d4075312b4e55621c7c",
-      "download_count": 103,
+      "download_count": 124,
       "created_at": "2026-10-03T05:52:55Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv7.sbom.pem"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:adaf8bc7c8e4958bd024b7c69888469650e63f43ec918cc2b149a68e9c5928d5",
-      "download_count": 106,
+      "download_count": 127,
       "created_at": "2026-10-03T05:52:55Z",
       "updated_at": "2026-10-03T05:52:55Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv7.sbom.sig"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 17065014,
       "digest": "sha256:7bf1d3344ee82e5e9e40dac2408df684d3f73c967e01e5dd4183903672a4a97b",
-      "download_count": 93,
+      "download_count": 109,
       "created_at": "2026-10-03T05:52:29Z",
       "updated_at": "2026-10-03T05:52:31Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv7.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:5d91336e1b0af689d8fa8aec021d3dd8b7835118ac92f911dcead6093714c540",
-      "download_count": 112,
+      "download_count": 133,
       "created_at": "2026-10-03T05:52:42Z",
       "updated_at": "2026-10-03T05:52:43Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_freebsd_armv7.tar.gz.sig"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 18142322,
       "digest": "sha256:a22b914ffd1958da42bc7ab13b7b62c6100634e0798ab594891d2d61d53ba749",
-      "download_count": 3311,
+      "download_count": 5712,
       "created_at": "2026-10-03T05:52:36Z",
       "updated_at": "2026-10-03T05:52:37Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.deb"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:f56df837c8c243c438c19f9011d7d5379f6e4e9d396f93b953b35598af41f29c",
-      "download_count": 221,
+      "download_count": 348,
       "created_at": "2026-10-03T05:52:48Z",
       "updated_at": "2026-10-03T05:52:48Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.deb.pem"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:15d45467acfd363c54c4553c3b34a3318b0747367718aa4fd163d13bd1f8581f",
-      "download_count": 222,
+      "download_count": 344,
       "created_at": "2026-10-03T05:52:48Z",
       "updated_at": "2026-10-03T05:52:48Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.deb.sig"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:43406c10323f8c71e39e096e19fe2cf490cb46461c2c18c58d7a64eabf4601c0",
-      "download_count": 179,
+      "download_count": 224,
       "created_at": "2026-10-03T05:52:46Z",
       "updated_at": "2026-10-03T05:52:46Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.pem"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 144477,
       "digest": "sha256:0ffe9feaac4a9a5e3fc201e7c8864ad1099e14783fc1c60bda48c74b52e33099",
-      "download_count": 166,
+      "download_count": 199,
       "created_at": "2026-10-03T05:52:38Z",
       "updated_at": "2026-10-03T05:52:38Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.sbom"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:c1d0f6bd2961ecc6c78ca7ffe383a3d1f7d1b91690a8984c5c9c27e0f7085627",
-      "download_count": 123,
+      "download_count": 145,
       "created_at": "2026-10-03T05:52:50Z",
       "updated_at": "2026-10-03T05:52:50Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.sbom.pem"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:8d60213bfb63a82f8aa42d86f648661e3c97c8f8c7c469fd69443be7ca32d44e",
-      "download_count": 128,
+      "download_count": 150,
       "created_at": "2026-10-03T05:52:50Z",
       "updated_at": "2026-10-03T05:52:50Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.sbom.sig"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 18113754,
       "digest": "sha256:727b91701a392de6ebc5027509f548bf39979e5216340d0faed8fa5e69c84f8b",
-      "download_count": 49626,
+      "download_count": 57104,
       "created_at": "2026-10-03T05:52:33Z",
       "updated_at": "2026-10-03T05:52:34Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:c91d7fd9cd7e5655f9a94db7d40e82b22b0f4f6b257831b4b7e33a33e1c4c705",
-      "download_count": 187,
+      "download_count": 237,
       "created_at": "2026-10-03T05:52:46Z",
       "updated_at": "2026-10-03T05:52:46Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_amd64.tar.gz.sig"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 16511820,
       "digest": "sha256:ca8ae5a50439642d7672344b4ec64e47cbddf81beb5da302420a78522eb5a47e",
-      "download_count": 470,
+      "download_count": 815,
       "created_at": "2026-10-03T05:52:35Z",
       "updated_at": "2026-10-03T05:52:36Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.deb"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:48c7dc67aa794c53498bab421df695941e4989216852f7a7cea21fe316723bd3",
-      "download_count": 116,
+      "download_count": 160,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:48Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.deb.pem"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:cc53b8351818ecb2ace273a2b17b00b72d0eb791d177fc493750aaa0155cf6ca",
-      "download_count": 122,
+      "download_count": 163,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:48Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.deb.sig"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:38b3a4a976cab6631a724d7e409d143d770c003e565133040025b8efdf6348f7",
-      "download_count": 200,
+      "download_count": 228,
       "created_at": "2026-10-03T05:52:41Z",
       "updated_at": "2026-10-03T05:52:41Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.pem"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 144479,
       "digest": "sha256:0bc6daab88e6c1684a61620a70503b90625d38391c9a5da7e5589d1e54d286c4",
-      "download_count": 114,
+      "download_count": 132,
       "created_at": "2026-10-03T05:52:39Z",
       "updated_at": "2026-10-03T05:52:39Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.sbom"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:aee7cff7bbe43cc8bb5c22654c5d9b21552f30643c38af0c25110a0a6364b648",
-      "download_count": 113,
+      "download_count": 134,
       "created_at": "2026-10-03T05:52:52Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.sbom.pem"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:6d16abec7f44da60907abe9c141699e95812ae9fffa4852765d82dc2ad132c45",
-      "download_count": 103,
+      "download_count": 124,
       "created_at": "2026-10-03T05:52:52Z",
       "updated_at": "2026-10-03T05:52:52Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.sbom.sig"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 16485181,
       "digest": "sha256:d8fc6d179a5d283028a472a5618564f6ad8a86fed513e64f032b3b0b7cc45e42",
-      "download_count": 3848,
+      "download_count": 4543,
       "created_at": "2026-10-03T05:52:28Z",
       "updated_at": "2026-10-03T05:52:29Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.tar.gz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:be38aec41805eb6982fcd62febbc9c1119a69d5fe2f3ee5a8d190ee85cd0dcc6",
-      "download_count": 213,
+      "download_count": 244,
       "created_at": "2026-10-03T05:52:41Z",
       "updated_at": "2026-10-03T05:52:41Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_arm64.tar.gz.sig"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 17188788,
       "digest": "sha256:0ee0d691831fe2b2688d2c7f69004c3d7205bcf018e75016d58df19f06945f6a",
-      "download_count": 101,
+      "download_count": 117,
       "created_at": "2026-10-03T05:52:36Z",
       "updated_at": "2026-10-03T05:52:37Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.deb"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:8146f3ce6da9a409e1c40a8e5881b8e3c3fe64a20711aa760be5a9f428b6629a",
-      "download_count": 108,
+      "download_count": 128,
       "created_at": "2026-10-03T05:52:48Z",
       "updated_at": "2026-10-03T05:52:49Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.deb.pem"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:e7f3009f110d2a3e145cbcda06dfffe7213cbe8f74e227b80e0e8752c664acd6",
-      "download_count": 96,
+      "download_count": 115,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:49Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.deb.sig"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:31f2c4fca36361d376b9e887826bc747e41326c41bb1145e822747b003b679f0",
-      "download_count": 105,
+      "download_count": 124,
       "created_at": "2026-10-03T05:52:45Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.pem"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 144178,
       "digest": "sha256:252ab9d4174c22f489c0088e0811d65beae701ca7bdb5a91f78a3a45ab9a91e3",
-      "download_count": 93,
+      "download_count": 108,
       "created_at": "2026-10-03T05:52:37Z",
       "updated_at": "2026-10-03T05:52:38Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.sbom"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:df6c0781fea0f914ac8f0aab3d0eb01907a3e37566de86d5df33bdb1533158e7",
-      "download_count": 109,
+      "download_count": 128,
       "created_at": "2026-10-03T05:52:50Z",
       "updated_at": "2026-10-03T05:52:50Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.sbom.pem"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:dda2eb8ed391e274a53be0146ff7f92b18abb5fa15943b5c89aaa8799402520a",
-      "download_count": 104,
+      "download_count": 123,
       "created_at": "2026-10-03T05:52:50Z",
       "updated_at": "2026-10-03T05:52:50Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.sbom.sig"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 17162791,
       "digest": "sha256:0de27e13289f58569da106911ee4566cf98908e195410871e060c472de289273",
-      "download_count": 98,
+      "download_count": 113,
       "created_at": "2026-10-03T05:52:33Z",
       "updated_at": "2026-10-03T05:52:34Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.tar.gz"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:7d1f51b929ebbc03c5eb4ddc39cc9bc37e53dbbe3544eed7df89da2d23041ca5",
-      "download_count": 98,
+      "download_count": 117,
       "created_at": "2026-10-03T05:52:45Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv5.tar.gz.sig"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 17180822,
       "digest": "sha256:0cc377e95a13152c852b274fa610cf3410213aef959b99f5a5df60d06970cc16",
-      "download_count": 98,
+      "download_count": 113,
       "created_at": "2026-10-03T05:52:36Z",
       "updated_at": "2026-10-03T05:52:37Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.deb"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:33b2162c68fe107240ffbfb6261ff2c6f9e954be59689a86cbddb4c47d3b131d",
-      "download_count": 92,
+      "download_count": 112,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:49Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.deb.pem"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:c09bfde981216c85dd5930a981e408435b01474fe3d5181d4c104d5093151233",
-      "download_count": 102,
+      "download_count": 121,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:49Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.deb.sig"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:29334af005beddd8cde3da542967b4ea5691814aa3c587a8e473dccdc286700a",
-      "download_count": 96,
+      "download_count": 115,
       "created_at": "2026-10-03T05:52:45Z",
       "updated_at": "2026-10-03T05:52:46Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.pem"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 144178,
       "digest": "sha256:e1e61e50fbebe549f7aa880d466e4d116f0be33cd2a5b4ce8ce783bcd7d504c9",
-      "download_count": 92,
+      "download_count": 107,
       "created_at": "2026-10-03T05:52:38Z",
       "updated_at": "2026-10-03T05:52:39Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.sbom"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:29107d1951862b798f5e96c80ca336922dfdc24f57e3145977b08dd3772cfcf6",
-      "download_count": 88,
+      "download_count": 107,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:52Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.sbom.pem"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:70b8c352102913d744bd3c38dae4a743f83947765423f11d2426c34adfdf2f7e",
-      "download_count": 99,
+      "download_count": 118,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:51Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.sbom.sig"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 17151983,
       "digest": "sha256:6aa74c9643ca6f9fbcbc25d123e78932129371eda80862ced9ac3a6e73d09bc1",
-      "download_count": 96,
+      "download_count": 111,
       "created_at": "2026-10-03T05:52:33Z",
       "updated_at": "2026-10-03T05:52:34Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.tar.gz"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:c130b3cce9163161a45d9acd5fba3263b54e4382a33d5c432ca0cd60f36cb013",
-      "download_count": 107,
+      "download_count": 125,
       "created_at": "2026-10-03T05:52:45Z",
       "updated_at": "2026-10-03T05:52:45Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv6.tar.gz.sig"
@@ -2443,7 +2443,7 @@
       "state": "uploaded",
       "size": 17163686,
       "digest": "sha256:a423a263b42ffbfb4cf5207c71a76b8b86c0139ee6a0cf29ca4f74bc898b95c8",
-      "download_count": 104,
+      "download_count": 119,
       "created_at": "2026-10-03T05:52:37Z",
       "updated_at": "2026-10-03T05:52:38Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.deb"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:d534bc795ed8ed00b9736543c7387774e843a15ee685212b3fde0ee0ae045e13",
-      "download_count": 104,
+      "download_count": 122,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:49Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.deb.pem"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:476fbdb60326371be4549cee404c68e3187abcb4fcdb871fc1072972de179bd7",
-      "download_count": 98,
+      "download_count": 116,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:49Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.deb.sig"
@@ -2551,7 +2551,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:c0cd7e96a5dfac1d960e9ea481eb83849652f66b6ef4a4f8ddfdb69d497a4cc7",
-      "download_count": 102,
+      "download_count": 120,
       "created_at": "2026-10-03T05:52:41Z",
       "updated_at": "2026-10-03T05:52:41Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.pem"
@@ -2587,7 +2587,7 @@
       "state": "uploaded",
       "size": 144178,
       "digest": "sha256:5a6ef93940c829c54dfad720d5b8c07fb14716667d15a101470df4106403cc0e",
-      "download_count": 83,
+      "download_count": 97,
       "created_at": "2026-10-03T05:52:39Z",
       "updated_at": "2026-10-03T05:52:39Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.sbom"
@@ -2623,7 +2623,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:0f393c1f92e15a8273c38d0d919f80cec5bfcfcfde640ce84cfc2f1b1fbc5498",
-      "download_count": 103,
+      "download_count": 121,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:52Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.sbom.pem"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:80b71d1940c1e9b5895a84f9b5189d632c7c865989867ea397061ebcebdf7a5c",
-      "download_count": 98,
+      "download_count": 116,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:52Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.sbom.sig"
@@ -2695,7 +2695,7 @@
       "state": "uploaded",
       "size": 17136901,
       "digest": "sha256:492c730b1b992e0d3e4346d1652128ae6ad99208834d3d78c27b3b6c9541c841",
-      "download_count": 134,
+      "download_count": 162,
       "created_at": "2026-10-03T05:52:28Z",
       "updated_at": "2026-10-03T05:52:29Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.tar.gz"
@@ -2731,7 +2731,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:8c92a66c674d408ff113710c4aee34a8b2e99b1d9c01e1ebe91e751987c46a83",
-      "download_count": 104,
+      "download_count": 122,
       "created_at": "2026-10-03T05:52:41Z",
       "updated_at": "2026-10-03T05:52:41Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_armv7.tar.gz.sig"
@@ -2767,7 +2767,7 @@
       "state": "uploaded",
       "size": 16508038,
       "digest": "sha256:d185fcd65b60caedfc578e926f56ea813da99dbe0767a2a5bba619ccefd73e07",
-      "download_count": 93,
+      "download_count": 107,
       "created_at": "2026-10-03T05:52:35Z",
       "updated_at": "2026-10-03T05:52:36Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.deb"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:a50dd4f7796de972b3f07856ac567e3f881ce4b576667815fbe3aaf1bb259dc4",
-      "download_count": 98,
+      "download_count": 116,
       "created_at": "2026-10-03T05:52:48Z",
       "updated_at": "2026-10-03T05:52:48Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.deb.pem"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:b28676d0e27762b50670a300d040a0487898c155362209148ac8bc60e50ed3bc",
-      "download_count": 104,
+      "download_count": 122,
       "created_at": "2026-10-03T05:52:48Z",
       "updated_at": "2026-10-03T05:52:48Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.deb.sig"
@@ -2875,7 +2875,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:ea637f24858e848301854e56ec5ab4c20e0741005c89b2978603f0519edc70f7",
-      "download_count": 97,
+      "download_count": 116,
       "created_at": "2026-10-03T05:52:44Z",
       "updated_at": "2026-10-03T05:52:44Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.pem"
@@ -2911,7 +2911,7 @@
       "state": "uploaded",
       "size": 144779,
       "digest": "sha256:2aa9007c7c5969f9e726d8882086db055927f80641428bb1abeb8aed3a79b0c6",
-      "download_count": 78,
+      "download_count": 92,
       "created_at": "2026-10-03T05:52:39Z",
       "updated_at": "2026-10-03T05:52:39Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.sbom"
@@ -2947,7 +2947,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:fd515f355462795e07e55ef4e5dfdb804a501aa4b655d86ab78b3865925d16b4",
-      "download_count": 100,
+      "download_count": 118,
       "created_at": "2026-10-03T05:52:53Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.sbom.pem"
@@ -2983,7 +2983,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:2fb9ac425dba6581cf8902eb8461cd7d7f86e925f5595286c23553a636b1f585",
-      "download_count": 97,
+      "download_count": 115,
       "created_at": "2026-10-03T05:52:52Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.sbom.sig"
@@ -3019,7 +3019,7 @@
       "state": "uploaded",
       "size": 16480936,
       "digest": "sha256:c2883598564b7f9483884ca02bb94506522855a727445f8e3a2c4b1acc076524",
-      "download_count": 105,
+      "download_count": 124,
       "created_at": "2026-10-03T05:52:31Z",
       "updated_at": "2026-10-03T05:52:32Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.tar.gz"
@@ -3055,7 +3055,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:0cbeef5aacb8c3f06398aec4d8310c5b10e3cf715268ff549a22fd5064be695f",
-      "download_count": 88,
+      "download_count": 106,
       "created_at": "2026-10-03T05:52:44Z",
       "updated_at": "2026-10-03T05:52:44Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_ppc64le.tar.gz.sig"
@@ -3091,7 +3091,7 @@
       "state": "uploaded",
       "size": 17118382,
       "digest": "sha256:e50f039fe20de5b2accbc9905af37405f747bec06c6c3a96767f9a35ab211e68",
-      "download_count": 95,
+      "download_count": 109,
       "created_at": "2026-10-03T05:52:37Z",
       "updated_at": "2026-10-03T05:52:38Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.deb"
@@ -3127,7 +3127,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:030c94f96319d3a18da9c68f8bbebd4798c2b4e03c2dddf8be7fb311e69d66b4",
-      "download_count": 100,
+      "download_count": 119,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:50Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.deb.pem"
@@ -3163,7 +3163,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:f6dc62454a50f2d939524df276c511c46f17b4d935971e04525826270e61c60f",
-      "download_count": 97,
+      "download_count": 115,
       "created_at": "2026-10-03T05:52:49Z",
       "updated_at": "2026-10-03T05:52:50Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.deb.sig"
@@ -3199,7 +3199,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:20a31b115de4cd8e930197bd57eadbfdaae61e8bc87d56acf02e697e7f4fc9a5",
-      "download_count": 99,
+      "download_count": 118,
       "created_at": "2026-10-03T05:52:42Z",
       "updated_at": "2026-10-03T05:52:42Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.pem"
@@ -3235,7 +3235,7 @@
       "state": "uploaded",
       "size": 144781,
       "digest": "sha256:48006e3050bc7379640719ad26653d45878811d4e18326e1ca453f9d97265e25",
-      "download_count": 84,
+      "download_count": 98,
       "created_at": "2026-10-03T05:52:39Z",
       "updated_at": "2026-10-03T05:52:40Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.sbom"
@@ -3271,7 +3271,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:a04f8c8418bec0a7be83f5517497f70a1809173c10a56c695e4fb5b977a31915",
-      "download_count": 98,
+      "download_count": 116,
       "created_at": "2026-10-03T05:52:53Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.sbom.pem"
@@ -3307,7 +3307,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:ba6335b20650bd7defae73a9e29832f86858ec529691283ceeac78568cc63596",
-      "download_count": 89,
+      "download_count": 107,
       "created_at": "2026-10-03T05:52:53Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.sbom.sig"
@@ -3343,7 +3343,7 @@
       "state": "uploaded",
       "size": 17089832,
       "digest": "sha256:9bc29c42ac7b1179c578f39ffa285d4bdb253717041e7ed455fafd48f9f3beba",
-      "download_count": 110,
+      "download_count": 126,
       "created_at": "2026-10-03T05:52:28Z",
       "updated_at": "2026-10-03T05:52:29Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.tar.gz"
@@ -3379,7 +3379,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:808b082ca801c4c0163467b3618766b1ee6f5c134d021a4aec86822d85cc04cd",
-      "download_count": 92,
+      "download_count": 110,
       "created_at": "2026-10-03T05:52:41Z",
       "updated_at": "2026-10-03T05:52:42Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_riscv64.tar.gz.sig"
@@ -3415,7 +3415,7 @@
       "state": "uploaded",
       "size": 17499420,
       "digest": "sha256:b2a7caa6cedd091b8aa5daf2422c90a3fc408620d1eb3fdc29a15485a175499b",
-      "download_count": 95,
+      "download_count": 110,
       "created_at": "2026-10-03T05:52:35Z",
       "updated_at": "2026-10-03T05:52:36Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.deb"
@@ -3451,7 +3451,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:0392943187259992cf584afd298c781940bbc6bd52b10c6428bfc21333be366b",
-      "download_count": 93,
+      "download_count": 111,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:47Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.deb.pem"
@@ -3487,7 +3487,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:f9cfc2b289d7f2c6ea3711e1ae2d86931311375d0d22732a469b3611bf36fd5c",
-      "download_count": 84,
+      "download_count": 102,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:47Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.deb.sig"
@@ -3523,7 +3523,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:7b43228234613840cb25e45a2b33e03ac24c39595c8d6a994bc7d2f87d51ec28",
-      "download_count": 91,
+      "download_count": 110,
       "created_at": "2026-10-03T05:52:43Z",
       "updated_at": "2026-10-03T05:52:43Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.pem"
@@ -3559,7 +3559,7 @@
       "state": "uploaded",
       "size": 144474,
       "digest": "sha256:47171594f673359cb624eda06a84a39dbc948c24639f284ef0a66cf34255125d",
-      "download_count": 82,
+      "download_count": 96,
       "created_at": "2026-10-03T05:52:39Z",
       "updated_at": "2026-10-03T05:52:39Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.sbom"
@@ -3595,7 +3595,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:add6e0c0751a0867225ca4dac0f0f729bddc55fb9659c91eaebb1d5f9ca0177d",
-      "download_count": 84,
+      "download_count": 102,
       "created_at": "2026-10-03T05:52:52Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.sbom.pem"
@@ -3631,7 +3631,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:14ed81acc366c24060fe6499f96d7db53e447ea7bfc3745a27a49a8e44c2cbd2",
-      "download_count": 89,
+      "download_count": 107,
       "created_at": "2026-10-03T05:52:52Z",
       "updated_at": "2026-10-03T05:52:53Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.sbom.sig"
@@ -3667,7 +3667,7 @@
       "state": "uploaded",
       "size": 17471712,
       "digest": "sha256:9cba3a55495988467c9f0a7774725aa8621a42533d49745c19cb6335376986fd",
-      "download_count": 111,
+      "download_count": 130,
       "created_at": "2026-10-03T05:52:30Z",
       "updated_at": "2026-10-03T05:52:31Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.tar.gz"
@@ -3703,7 +3703,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:05d0a8c59f15d1ef7aee9d0f2d9771c2a1cfad1bc3bf5ef8a9d6661e0515b782",
-      "download_count": 88,
+      "download_count": 106,
       "created_at": "2026-10-03T05:52:43Z",
       "updated_at": "2026-10-03T05:52:43Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_linux_s390x.tar.gz.sig"
@@ -3739,7 +3739,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:3da66282cece2dfa6dbbb0ab658c1b8008703974ed9e6c70d55128805a4751ee",
-      "download_count": 94,
+      "download_count": 113,
       "created_at": "2026-10-03T05:52:42Z",
       "updated_at": "2026-10-03T05:52:42Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.pem"
@@ -3775,7 +3775,7 @@
       "state": "uploaded",
       "size": 144368,
       "digest": "sha256:2352d11b339b01df738b8485b7dbf9c757581050c4da6b3e5e568596de37b763",
-      "download_count": 83,
+      "download_count": 97,
       "created_at": "2026-10-03T05:52:38Z",
       "updated_at": "2026-10-03T05:52:38Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.sbom"
@@ -3811,7 +3811,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:9e5dd7cfc6ff7188b260f7203854881a3f4aecc4ce640d96dcbc80642c136ed0",
-      "download_count": 92,
+      "download_count": 110,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:51Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.sbom.pem"
@@ -3847,7 +3847,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:94fa244cf161b18fd7ef18a8fb13254847d07eb424edff08901a3442c619f509",
-      "download_count": 87,
+      "download_count": 105,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:51Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.sbom.sig"
@@ -3883,7 +3883,7 @@
       "state": "uploaded",
       "size": 18551994,
       "digest": "sha256:110c53e5c093e4cfce6eda787f94f23bef913c309f620fab26b4f678031841ad",
-      "download_count": 506,
+      "download_count": 572,
       "created_at": "2026-10-03T05:52:28Z",
       "updated_at": "2026-10-03T05:52:29Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.tar.gz"
@@ -3919,7 +3919,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:5bf225a8405e9cf382151363f27acafd82592546b69081f1a222a78d987950b6",
-      "download_count": 91,
+      "download_count": 110,
       "created_at": "2026-10-03T05:52:42Z",
       "updated_at": "2026-10-03T05:52:42Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_amd64.tar.gz.sig"
@@ -3955,7 +3955,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:f294336230882d45e36d8defdfbe77c03d8f577f80534535c567ba6ac54bf5d1",
-      "download_count": 108,
+      "download_count": 126,
       "created_at": "2026-10-03T05:52:46Z",
       "updated_at": "2026-10-03T05:52:46Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.pem"
@@ -3991,7 +3991,7 @@
       "state": "uploaded",
       "size": 144370,
       "digest": "sha256:88279fae7707ca68f1658906d573224cd56b61f0553a0db67911c8a9065a0848",
-      "download_count": 86,
+      "download_count": 101,
       "created_at": "2026-10-03T05:52:38Z",
       "updated_at": "2026-10-03T05:52:39Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.sbom"
@@ -4027,7 +4027,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:7a6f0028e57c833ddd145d8c533d16b2445ec41e2a15104c49318c3ecee8a0cf",
-      "download_count": 94,
+      "download_count": 112,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:51Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.sbom.pem"
@@ -4063,7 +4063,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:fc23e53f0c9f03d6859902d6874e4ee37c3a82c3e5daede08be084abb5c6180c",
-      "download_count": 85,
+      "download_count": 100,
       "created_at": "2026-10-03T05:52:51Z",
       "updated_at": "2026-10-03T05:52:51Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.sbom.sig"
@@ -4099,7 +4099,7 @@
       "state": "uploaded",
       "size": 17297953,
       "digest": "sha256:cda3030e5d5b13eb9f0b6fb541037f633bddd958c070c5f561d7a5cccb581665",
-      "download_count": 3888,
+      "download_count": 4427,
       "created_at": "2026-10-03T05:52:33Z",
       "updated_at": "2026-10-03T05:52:34Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.tar.gz"
@@ -4135,7 +4135,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:1005c5b1e751b24f99f278a8002f1d67de57d946020a11db231f591726855e27",
-      "download_count": 103,
+      "download_count": 115,
       "created_at": "2026-10-03T05:52:46Z",
       "updated_at": "2026-10-03T05:52:46Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_mac_arm64.tar.gz.sig"
@@ -4171,7 +4171,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:9cc11b504c040bdfa20cf5e98dbbcdc993e9ca97c522cb29e8e55de147b6293a",
-      "download_count": 96,
+      "download_count": 109,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:47Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_src.pem"
@@ -4207,7 +4207,7 @@
       "state": "uploaded",
       "size": 12019661,
       "digest": "sha256:341aa3fff9d6a8ca8367d48d8784f8887a2b8a4fab8c52dd189b595a6b532a77",
-      "download_count": 106,
+      "download_count": 115,
       "created_at": "2026-10-03T05:52:34Z",
       "updated_at": "2026-10-03T05:52:35Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_src.tar.gz"
@@ -4243,7 +4243,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:7a9379415fa8eaedb2abf6c68bf80921a3a5c6e284881955d4a5c7d188f04f1d",
-      "download_count": 93,
+      "download_count": 105,
       "created_at": "2026-10-03T05:52:47Z",
       "updated_at": "2026-10-03T05:52:47Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_src.tar.gz.sig"
@@ -4279,7 +4279,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:b5952b10314af82a176222d1ba0c79d7c0bc111289e4b1b474119a727f39b144",
-      "download_count": 128,
+      "download_count": 147,
       "created_at": "2026-10-03T05:52:44Z",
       "updated_at": "2026-10-03T05:52:44Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.pem"
@@ -4315,7 +4315,7 @@
       "state": "uploaded",
       "size": 146669,
       "digest": "sha256:e38b1c0e0e41e22a6d838a6cbfc1bcb73152cda035491efcb847d09b4011e6a3",
-      "download_count": 207,
+      "download_count": 219,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:40Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.sbom"
@@ -4351,7 +4351,7 @@
       "state": "uploaded",
       "size": 3280,
       "digest": "sha256:9bc01ce037159ce3bce3cb687bcec1b099a93d6f5aaab44b3ea0c82c97939e3b",
-      "download_count": 107,
+      "download_count": 120,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:54Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.sbom.pem"
@@ -4387,7 +4387,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:25695e33b84db599f0a7872140904bd863f7a903febd5718d609487a43c6101e",
-      "download_count": 101,
+      "download_count": 113,
       "created_at": "2026-10-03T05:52:53Z",
       "updated_at": "2026-10-03T05:52:54Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.sbom.sig"
@@ -4423,7 +4423,7 @@
       "state": "uploaded",
       "size": 18479498,
       "digest": "sha256:0a1edc0b799512051c57071ce0e798d3f2cf67dc98171366f1d2b326072e3b06",
-      "download_count": 11638,
+      "download_count": 13151,
       "created_at": "2026-10-03T05:52:31Z",
       "updated_at": "2026-10-03T05:52:32Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.zip"
@@ -4459,7 +4459,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:1979d5576e1cb363745bd3fa6f05a436a81ce3161be5abd050b159802ddbe237",
-      "download_count": 126,
+      "download_count": 146,
       "created_at": "2026-10-03T05:52:44Z",
       "updated_at": "2026-10-03T05:52:44Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_amd64.zip.sig"
@@ -4495,7 +4495,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:02ca2c4993bb575753642820b138f995c9c08262d49381a691eeaeef4ebe5d5c",
-      "download_count": 91,
+      "download_count": 103,
       "created_at": "2026-10-03T05:52:42Z",
       "updated_at": "2026-10-03T05:52:43Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.pem"
@@ -4531,7 +4531,7 @@
       "state": "uploaded",
       "size": 146671,
       "digest": "sha256:5986467e0bbea479df1f5200eafff0eeb0ad37cafc3ce906b69bd215412dbdd3",
-      "download_count": 74,
+      "download_count": 83,
       "created_at": "2026-10-03T05:52:40Z",
       "updated_at": "2026-10-03T05:52:40Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.sbom"
@@ -4567,7 +4567,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:b09ffd3ed36881294f3114765c43de388d2c7b28307ccff9f13da3e9dcf88fff",
-      "download_count": 81,
+      "download_count": 93,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:54Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.sbom.pem"
@@ -4603,7 +4603,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:ca07004b80d824d9d010aff7cffa326fe7a475a8c832d917df9781f8310334c8",
-      "download_count": 81,
+      "download_count": 93,
       "created_at": "2026-10-03T05:52:54Z",
       "updated_at": "2026-10-03T05:52:54Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.sbom.sig"
@@ -4639,7 +4639,7 @@
       "state": "uploaded",
       "size": 16545448,
       "digest": "sha256:34804a5e61106fa6718682f5be6c9edc4cceec9601ba7e25beec1e176cfc3b47",
-      "download_count": 360,
+      "download_count": 397,
       "created_at": "2026-10-03T05:52:29Z",
       "updated_at": "2026-10-03T05:52:30Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.zip"
@@ -4675,7 +4675,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:dd219af674dc20bac05027cba4274b1dc3b5d39c379137330c8066152cb600ba",
-      "download_count": 87,
+      "download_count": 99,
       "created_at": "2026-10-03T05:52:42Z",
       "updated_at": "2026-10-03T05:52:42Z",
       "browser_download_url": "https://github.com/caddyserver/caddy/releases/download/v2.11.7/caddy_2.11.7_windows_arm64.zip.sig"
