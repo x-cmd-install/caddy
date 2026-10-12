@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 77,707 · **Forks**: 5,113 · **Open issues**: 4,669 · **Contributors**: 465
+- **Stars**: 77,795 · **Forks**: 5,120 · **Open issues**: 4,672 · **Contributors**: 465
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 2487 · **Open PRs**: 85 · **Closed issues**: 4472 · **Open issues**: 197 · **Commits**: 2751
+- **Releases**: 138 · **Merged PRs**: 2487 · **Open PRs**: 91 · **Closed issues**: 4472 · **Open issues**: 200 · **Commits**: 2751
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 52 | 30 | 38 | 14 | 69 |
-| last60d | 2026-08-12 | 2 | 87 | 38 | 50 | 19 | 101 |
-| 90d | 2026-07-13 | 2 | 118 | 43 | 62 | 22 | 125 |
-| last180d | 2026-04-14 | 4 | 188 | 58 | 117 | 30 | 220 |
-| 360d | 2025-10-16 | 8 | 313 | 72 | 240 | 47 | 380 |
-| last720d | 2024-10-21 | 18 | 499 | 82 | 554 | 116 | 634 |
+| 30d | 2026-09-12 | 2 | 51 | 36 | 37 | 17 | 62 |
+| last60d | 2026-08-13 | 2 | 87 | 44 | 50 | 22 | 98 |
+| 90d | 2026-07-14 | 2 | 116 | 49 | 62 | 24 | 125 |
+| last180d | 2026-04-15 | 4 | 186 | 64 | 117 | 33 | 215 |
+| 360d | 2025-10-17 | 8 | 313 | 78 | 240 | 49 | 372 |
+| last720d | 2024-10-22 | 18 | 496 | 88 | 554 | 119 | 630 |
 
 ## Release assets
 
@@ -207,4 +207,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:15:57Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:28:25Z._
