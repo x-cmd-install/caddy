@@ -14,11 +14,11 @@ x install caddy
 
 ## Code insight
 
-Total: **95,687** lines of code across **403** files in the top 5 languages.
+Total: **95,902** lines of code across **404** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 90,844 | 22,824 | 12,772 | 393 |
+| Go | 91,059 | 22,917 | 12,790 | 394 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.7` (2026-10-03)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-16
 - **Assets in release**: 129
 
 ## Popularity
 
-- **Stars**: 78,030 · **Forks**: 5,145 · **Open issues**: 4,687 · **Contributors**: 468
+- **Stars**: 78,062 · **Forks**: 5,147 · **Open issues**: 4,690 · **Contributors**: 469
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 2499 · **Open PRs**: 89 · **Closed issues**: 4482 · **Open issues**: 205 · **Commits**: 2764
+- **Releases**: 138 · **Merged PRs**: 2504 · **Open PRs**: 86 · **Closed issues**: 4486 · **Open issues**: 204 · **Commits**: 2769
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 55 | 35 | 43 | 22 | 75 |
-| last60d | 2026-08-17 | 2 | 93 | 44 | 59 | 27 | 111 |
-| 90d | 2026-07-18 | 2 | 121 | 49 | 66 | 29 | 138 |
-| last180d | 2026-04-19 | 4 | 196 | 61 | 125 | 38 | 228 |
-| 360d | 2025-10-21 | 8 | 324 | 76 | 249 | 54 | 385 |
-| last720d | 2024-10-26 | 18 | 506 | 86 | 561 | 124 | 640 |
+| 30d | 2026-09-17 | 2 | 59 | 32 | 46 | 21 | 80 |
+| last60d | 2026-08-18 | 2 | 98 | 41 | 63 | 26 | 116 |
+| 90d | 2026-07-19 | 2 | 124 | 46 | 69 | 28 | 143 |
+| last180d | 2026-04-20 | 4 | 201 | 58 | 129 | 37 | 233 |
+| 360d | 2025-10-22 | 8 | 329 | 73 | 253 | 53 | 390 |
+| last720d | 2024-10-27 | 18 | 511 | 83 | 564 | 123 | 645 |
 
 ## Release assets
 
@@ -207,4 +207,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:05:46Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T03:56:12Z._
