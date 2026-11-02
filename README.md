@@ -14,11 +14,11 @@ x install caddy
 
 ## Code insight
 
-Total: **99,497** lines of code across **413** files in the top 5 languages.
+Total: **99,625** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 94,654 | 23,535 | 13,112 | 403 |
+| Go | 94,782 | 23,536 | 13,122 | 402 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 78,604 · **Forks**: 5,223 · **Open issues**: 4,716 · **Contributors**: 482
+- **Stars**: 78,637 · **Forks**: 5,229 · **Open issues**: 4,716 · **Contributors**: 483
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 2536 · **Open PRs**: 81 · **Closed issues**: 4506 · **Open issues**: 210 · **Commits**: 2801
+- **Releases**: 138 · **Merged PRs**: 2542 · **Open PRs**: 91 · **Closed issues**: 4507 · **Open issues**: 209 · **Commits**: 2807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 73 | 28 | 46 | 26 | 59 |
-| last60d | 2026-09-02 | 2 | 109 | 41 | 72 | 33 | 123 |
-| 90d | 2026-08-03 | 2 | 141 | 46 | 82 | 36 | 161 |
-| last180d | 2026-05-05 | 4 | 220 | 57 | 138 | 45 | 238 |
-| 360d | 2025-11-06 | 8 | 351 | 68 | 259 | 63 | 412 |
-| last720d | 2024-11-11 | 17 | 537 | 79 | 573 | 128 | 662 |
+| 30d | 2026-10-03 | 1 | 73 | 37 | 42 | 26 | 65 |
+| last60d | 2026-09-03 | 2 | 115 | 52 | 73 | 32 | 129 |
+| 90d | 2026-08-04 | 2 | 147 | 56 | 83 | 35 | 167 |
+| last180d | 2026-05-06 | 4 | 226 | 67 | 139 | 44 | 244 |
+| 360d | 2025-11-07 | 8 | 357 | 77 | 260 | 62 | 418 |
+| last720d | 2024-11-12 | 17 | 542 | 89 | 573 | 127 | 667 |
 
 ## Release assets
 
@@ -201,7 +201,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **131** distros on [repology.org](https://repology.org/project/caddy). **28** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/caddy). **29** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -211,7 +211,7 @@ Reported by **131** distros on [repology.org](https://repology.org/project/caddy
 | Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
 | Arch | `2.11.7` | ✅ latest |
-| Homebrew | `2.11.7` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.11.4` | ⚠️ outdated |
 | Nix unstable | `2.11.7` | ✅ latest |
 | Void | `2.11.4` | ⚠️ outdated |
@@ -227,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:32:29Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:30:57Z._
