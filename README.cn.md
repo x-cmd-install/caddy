@@ -14,11 +14,11 @@ x install caddy
 
 ## 代码洞察
 
-合计: **101,167** 行代码（覆盖前 5 种语言、共 **418** 个文件）。
+合计: **101,592** 行代码（覆盖前 5 种语言、共 **423** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 96,324 | 23,790 | 13,285 | 408 |
+| Go | 96,749 | 23,951 | 13,343 | 413 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -42,166 +42,166 @@ x install caddy
 
 ## 发布
 
-- **最新版本**: `v2.11.8` (2026-11-04)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v2.11.9` (2026-11-05)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 129 个
 
 ## 流行度
 
-- **Star**: 78,726 · **Fork**: 5,230 · **开放 issue**: 4,720 · **贡献者**: 486
+- **Star**: 78,781 · **Fork**: 5,228 · **开放 issue**: 4,722 · **贡献者**: 486
 
 ## 累计统计
 
-- **发布数**: 139 · **已合并 PR**: 2559 · **开放 PR**: 76 · **已关闭 issue**: 4517 · **开放 issue**: 203 · **提交数**: 2824
+- **发布数**: 140 · **已合并 PR**: 2572 · **开放 PR**: 69 · **已关闭 issue**: 4520 · **开放 issue**: 202 · **提交数**: 2837
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 74 | 27 | 47 | 20 | 82 |
-| last60d | 2026-09-05 | 3 | 128 | 39 | 79 | 27 | 146 |
-| 90d | 2026-08-06 | 3 | 160 | 42 | 92 | 29 | 184 |
-| last180d | 2026-05-08 | 5 | 241 | 53 | 148 | 38 | 261 |
-| 360d | 2025-11-09 | 9 | 372 | 62 | 270 | 56 | 435 |
-| last720d | 2024-11-14 | 18 | 558 | 74 | 580 | 121 | 682 |
+| 30d | 2026-10-06 | 2 | 80 | 22 | 46 | 20 | 95 |
+| last60d | 2026-09-06 | 4 | 138 | 33 | 80 | 27 | 159 |
+| 90d | 2026-08-07 | 4 | 169 | 36 | 94 | 29 | 197 |
+| last180d | 2026-05-09 | 6 | 253 | 46 | 149 | 38 | 274 |
+| 360d | 2025-11-10 | 10 | 385 | 55 | 272 | 56 | 448 |
+| last720d | 2024-11-15 | 19 | 570 | 67 | 580 | 121 | 694 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [caddy_2.11.8_buildable-artifact.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_buildable-artifact.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_buildable-artifact.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_buildable-artifact.tar.gz) | 11.0 MiB | `native/unknown` |
-| [caddy_2.11.8_buildable-artifact.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_buildable-artifact.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_checksums.txt](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_checksums.txt) | 6.6 KiB | `other` |
-| [caddy_2.11.8_checksums.txt.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_checksums.txt.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_checksums.txt.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_checksums.txt.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_amd64.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_amd64.sbom) | 141.1 KiB | `other` |
-| [caddy_2.11.8_freebsd_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_amd64.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_amd64.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_amd64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_amd64.tar.gz) | 17.1 MiB | `native/linux/x64` |
-| [caddy_2.11.8_freebsd_amd64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_amd64.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_arm64.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_arm64.sbom) | 141.1 KiB | `other` |
-| [caddy_2.11.8_freebsd_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_arm64.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_arm64.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_arm64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_arm64.tar.gz) | 15.5 MiB | `native/linux/arm64` |
-| [caddy_2.11.8_freebsd_arm64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_arm64.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_armv6.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv6.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_armv6.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv6.sbom) | 140.8 KiB | `other` |
-| [caddy_2.11.8_freebsd_armv6.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv6.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_armv6.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv6.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_armv6.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv6.tar.gz) | 16.2 MiB | `native/linux/arm` |
-| [caddy_2.11.8_freebsd_armv6.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv6.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_armv7.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv7.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_armv7.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv7.sbom) | 140.8 KiB | `other` |
-| [caddy_2.11.8_freebsd_armv7.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv7.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_freebsd_armv7.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv7.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_freebsd_armv7.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv7.tar.gz) | 16.2 MiB | `native/linux/arm` |
-| [caddy_2.11.8_freebsd_armv7.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_freebsd_armv7.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_linux_amd64.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.deb) | 17.2 MiB | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.deb.pem) | 3.2 KiB | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.deb.sig) | 96 B | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.pem) | 3.2 KiB | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.sbom) | 141.1 KiB | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.sbom.pem) | 3.2 KiB | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.sbom.sig) | 96 B | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.tar.gz) | 17.2 MiB | `native/linux/x64` |
-| [caddy_2.11.8_linux_amd64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_amd64.tar.gz.sig) | 96 B | `native/linux/x64` |
-| [caddy_2.11.8_linux_arm64.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.deb) | 15.6 MiB | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.deb.pem) | 3.2 KiB | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.deb.sig) | 96 B | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.pem) | 3.2 KiB | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.sbom) | 141.1 KiB | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.sbom.pem) | 3.2 KiB | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.sbom.sig) | 96 B | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.tar.gz) | 15.6 MiB | `native/linux/arm64` |
-| [caddy_2.11.8_linux_arm64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_arm64.tar.gz.sig) | 96 B | `native/linux/arm64` |
-| [caddy_2.11.8_linux_armv5.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.deb) | 16.3 MiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.deb.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.deb.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.sbom) | 140.8 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.sbom.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.sbom.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.tar.gz) | 16.3 MiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv5.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv5.tar.gz.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.deb) | 16.3 MiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.deb.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.deb.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.sbom) | 140.8 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.sbom.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.sbom.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.tar.gz) | 16.3 MiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv6.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv6.tar.gz.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.deb) | 16.3 MiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.deb.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.deb.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.sbom) | 140.8 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.sbom.pem) | 3.2 KiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.sbom.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.tar.gz) | 16.3 MiB | `native/linux/arm` |
-| [caddy_2.11.8_linux_armv7.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_armv7.tar.gz.sig) | 96 B | `native/linux/arm` |
-| [caddy_2.11.8_linux_ppc64le.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.deb) | 15.6 MiB | `other` |
-| [caddy_2.11.8_linux_ppc64le.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.deb.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_linux_ppc64le.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.deb.sig) | 96 B | `other` |
-| [caddy_2.11.8_linux_ppc64le.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_linux_ppc64le.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.sbom) | 141.4 KiB | `other` |
-| [caddy_2.11.8_linux_ppc64le.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_linux_ppc64le.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_linux_ppc64le.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.tar.gz) | 15.6 MiB | `native/unknown` |
-| [caddy_2.11.8_linux_ppc64le.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_ppc64le.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_linux_riscv64.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.deb) | 16.3 MiB | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.deb.pem) | 3.2 KiB | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.deb.sig) | 96 B | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.pem) | 3.2 KiB | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.sbom) | 141.4 KiB | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.sbom.pem) | 3.2 KiB | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.sbom.sig) | 96 B | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.tar.gz) | 16.3 MiB | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_riscv64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_riscv64.tar.gz.sig) | 96 B | `native/linux/riscv64` |
-| [caddy_2.11.8_linux_s390x.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.deb) | 16.6 MiB | `runtime/deb/s390x` |
-| [caddy_2.11.8_linux_s390x.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.deb.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_linux_s390x.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.deb.sig) | 96 B | `other` |
-| [caddy_2.11.8_linux_s390x.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_linux_s390x.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.sbom) | 141.1 KiB | `other` |
-| [caddy_2.11.8_linux_s390x.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_linux_s390x.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_linux_s390x.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.tar.gz) | 16.5 MiB | `native/unknown` |
-| [caddy_2.11.8_linux_s390x.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_linux_s390x.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_mac_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_amd64.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_mac_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_amd64.sbom) | 141.0 KiB | `other` |
-| [caddy_2.11.8_mac_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_amd64.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_mac_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_amd64.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_mac_amd64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_amd64.tar.gz) | 17.6 MiB | `native/linux/x64` |
-| [caddy_2.11.8_mac_amd64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_amd64.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_mac_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_arm64.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_mac_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_arm64.sbom) | 141.0 KiB | `other` |
-| [caddy_2.11.8_mac_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_arm64.sbom.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_mac_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_arm64.sbom.sig) | 96 B | `other` |
-| [caddy_2.11.8_mac_arm64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_arm64.tar.gz) | 16.4 MiB | `native/linux/arm64` |
-| [caddy_2.11.8_mac_arm64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_mac_arm64.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_src.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_src.pem) | 3.2 KiB | `other` |
-| [caddy_2.11.8_src.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_src.tar.gz) | 11.8 MiB | `native/unknown` |
-| [caddy_2.11.8_src.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_src.tar.gz.sig) | 96 B | `other` |
-| [caddy_2.11.8_windows_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_amd64.pem) | 3.2 KiB | `native/win/x64` |
-| [caddy_2.11.8_windows_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_amd64.sbom) | 143.2 KiB | `native/win/x64` |
-| [caddy_2.11.8_windows_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_amd64.sbom.pem) | 3.2 KiB | `native/win/x64` |
-| [caddy_2.11.8_windows_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_amd64.sbom.sig) | 96 B | `native/win/x64` |
-| [caddy_2.11.8_windows_amd64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_amd64.zip) | 17.5 MiB | `native/win/x64` |
-| [caddy_2.11.8_windows_amd64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_amd64.zip.sig) | 96 B | `native/win/x64` |
-| [caddy_2.11.8_windows_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_arm64.pem) | 3.2 KiB | `native/win/arm64` |
-| [caddy_2.11.8_windows_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_arm64.sbom) | 143.2 KiB | `native/win/arm64` |
-| [caddy_2.11.8_windows_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_arm64.sbom.pem) | 3.2 KiB | `native/win/arm64` |
-| [caddy_2.11.8_windows_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_arm64.sbom.sig) | 96 B | `native/win/arm64` |
-| [caddy_2.11.8_windows_arm64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_arm64.zip) | 15.7 MiB | `native/win/arm64` |
-| [caddy_2.11.8_windows_arm64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.8/caddy_2.11.8_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
+| [caddy_2.11.9_buildable-artifact.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_buildable-artifact.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_buildable-artifact.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_buildable-artifact.tar.gz) | 11.0 MiB | `native/unknown` |
+| [caddy_2.11.9_buildable-artifact.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_buildable-artifact.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_checksums.txt](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_checksums.txt) | 6.6 KiB | `other` |
+| [caddy_2.11.9_checksums.txt.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_checksums.txt.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_checksums.txt.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_checksums.txt.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_amd64.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_amd64.sbom) | 141.4 KiB | `other` |
+| [caddy_2.11.9_freebsd_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_amd64.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_amd64.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_amd64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_amd64.tar.gz) | 17.1 MiB | `native/linux/x64` |
+| [caddy_2.11.9_freebsd_amd64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_amd64.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_arm64.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_arm64.sbom) | 141.4 KiB | `other` |
+| [caddy_2.11.9_freebsd_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_arm64.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_arm64.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_arm64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_arm64.tar.gz) | 15.5 MiB | `native/linux/arm64` |
+| [caddy_2.11.9_freebsd_arm64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_arm64.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_armv6.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv6.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_armv6.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv6.sbom) | 141.1 KiB | `other` |
+| [caddy_2.11.9_freebsd_armv6.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv6.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_armv6.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv6.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_armv6.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv6.tar.gz) | 16.2 MiB | `native/linux/arm` |
+| [caddy_2.11.9_freebsd_armv6.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv6.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_armv7.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv7.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_armv7.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv7.sbom) | 141.1 KiB | `other` |
+| [caddy_2.11.9_freebsd_armv7.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv7.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_freebsd_armv7.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv7.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_freebsd_armv7.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv7.tar.gz) | 16.2 MiB | `native/linux/arm` |
+| [caddy_2.11.9_freebsd_armv7.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_freebsd_armv7.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_linux_amd64.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.deb) | 17.2 MiB | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.deb.pem) | 3.2 KiB | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.deb.sig) | 96 B | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.pem) | 3.2 KiB | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.sbom) | 141.4 KiB | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.sbom.pem) | 3.2 KiB | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.sbom.sig) | 96 B | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.tar.gz) | 17.2 MiB | `native/linux/x64` |
+| [caddy_2.11.9_linux_amd64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_amd64.tar.gz.sig) | 96 B | `native/linux/x64` |
+| [caddy_2.11.9_linux_arm64.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.deb) | 15.6 MiB | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.deb.pem) | 3.2 KiB | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.deb.sig) | 96 B | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.pem) | 3.2 KiB | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.sbom) | 141.4 KiB | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.sbom.pem) | 3.2 KiB | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.sbom.sig) | 96 B | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.tar.gz) | 15.6 MiB | `native/linux/arm64` |
+| [caddy_2.11.9_linux_arm64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_arm64.tar.gz.sig) | 96 B | `native/linux/arm64` |
+| [caddy_2.11.9_linux_armv5.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.deb) | 16.3 MiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.deb.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.deb.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.sbom) | 141.1 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.sbom.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.sbom.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.tar.gz) | 16.3 MiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv5.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv5.tar.gz.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.deb) | 16.3 MiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.deb.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.deb.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.sbom) | 141.1 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.sbom.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.sbom.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.tar.gz) | 16.3 MiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv6.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv6.tar.gz.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.deb) | 16.3 MiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.deb.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.deb.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.sbom) | 141.1 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.sbom.pem) | 3.2 KiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.sbom.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.tar.gz) | 16.3 MiB | `native/linux/arm` |
+| [caddy_2.11.9_linux_armv7.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_armv7.tar.gz.sig) | 96 B | `native/linux/arm` |
+| [caddy_2.11.9_linux_ppc64le.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.deb) | 15.6 MiB | `other` |
+| [caddy_2.11.9_linux_ppc64le.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.deb.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_linux_ppc64le.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.deb.sig) | 96 B | `other` |
+| [caddy_2.11.9_linux_ppc64le.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_linux_ppc64le.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.sbom) | 141.7 KiB | `other` |
+| [caddy_2.11.9_linux_ppc64le.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_linux_ppc64le.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_linux_ppc64le.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.tar.gz) | 15.6 MiB | `native/unknown` |
+| [caddy_2.11.9_linux_ppc64le.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_ppc64le.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_linux_riscv64.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.deb) | 16.3 MiB | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.deb.pem) | 3.2 KiB | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.deb.sig) | 96 B | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.pem) | 3.2 KiB | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.sbom) | 141.7 KiB | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.sbom.pem) | 3.2 KiB | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.sbom.sig) | 96 B | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.tar.gz) | 16.3 MiB | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_riscv64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_riscv64.tar.gz.sig) | 96 B | `native/linux/riscv64` |
+| [caddy_2.11.9_linux_s390x.deb](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.deb) | 16.6 MiB | `runtime/deb/s390x` |
+| [caddy_2.11.9_linux_s390x.deb.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.deb.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_linux_s390x.deb.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.deb.sig) | 96 B | `other` |
+| [caddy_2.11.9_linux_s390x.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_linux_s390x.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.sbom) | 141.4 KiB | `other` |
+| [caddy_2.11.9_linux_s390x.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_linux_s390x.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_linux_s390x.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.tar.gz) | 16.5 MiB | `native/unknown` |
+| [caddy_2.11.9_linux_s390x.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_linux_s390x.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_mac_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_mac_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.sbom) | 141.3 KiB | `other` |
+| [caddy_2.11.9_mac_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_mac_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_mac_amd64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.tar.gz) | 17.6 MiB | `native/linux/x64` |
+| [caddy_2.11.9_mac_amd64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_amd64.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_mac_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_mac_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.sbom) | 141.3 KiB | `other` |
+| [caddy_2.11.9_mac_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.sbom.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_mac_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.sbom.sig) | 96 B | `other` |
+| [caddy_2.11.9_mac_arm64.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.tar.gz) | 16.4 MiB | `native/linux/arm64` |
+| [caddy_2.11.9_mac_arm64.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_mac_arm64.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_src.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_src.pem) | 3.2 KiB | `other` |
+| [caddy_2.11.9_src.tar.gz](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_src.tar.gz) | 11.8 MiB | `native/unknown` |
+| [caddy_2.11.9_src.tar.gz.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_src.tar.gz.sig) | 96 B | `other` |
+| [caddy_2.11.9_windows_amd64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.pem) | 3.2 KiB | `native/win/x64` |
+| [caddy_2.11.9_windows_amd64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.sbom) | 143.5 KiB | `native/win/x64` |
+| [caddy_2.11.9_windows_amd64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.sbom.pem) | 3.2 KiB | `native/win/x64` |
+| [caddy_2.11.9_windows_amd64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.sbom.sig) | 96 B | `native/win/x64` |
+| [caddy_2.11.9_windows_amd64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.zip) | 17.5 MiB | `native/win/x64` |
+| [caddy_2.11.9_windows_amd64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_amd64.zip.sig) | 96 B | `native/win/x64` |
+| [caddy_2.11.9_windows_arm64.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.pem) | 3.2 KiB | `native/win/arm64` |
+| [caddy_2.11.9_windows_arm64.sbom](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.sbom) | 143.5 KiB | `native/win/arm64` |
+| [caddy_2.11.9_windows_arm64.sbom.pem](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.sbom.pem) | 3.2 KiB | `native/win/arm64` |
+| [caddy_2.11.9_windows_arm64.sbom.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.sbom.sig) | 96 B | `native/win/arm64` |
+| [caddy_2.11.9_windows_arm64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.zip) | 15.7 MiB | `native/win/arm64` |
+| [caddy_2.11.9_windows_arm64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/caddy) 上共有 **131** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**112** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/caddy) 上共有 **131** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**109** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -211,7 +211,7 @@ x install caddy
 | Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
 | Arch | `2.11.7` | ⚠️ outdated |
-| Homebrew | `2.11.8` | ✅ latest |
+| Homebrew | `2.11.9` | ✅ latest |
 | Fedora rawhide | `2.11.4` | ⚠️ outdated |
 | Nix unstable | `2.11.7` | ⚠️ outdated |
 | Void | `2.11.4` | ⚠️ outdated |
@@ -227,4 +227,4 @@ caddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T05:48:05Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:07:22Z._
