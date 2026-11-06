@@ -14,11 +14,11 @@ x install caddy
 
 ## 代码洞察
 
-合计: **101,592** 行代码（覆盖前 5 种语言、共 **423** 个文件）。
+合计: **101,796** 行代码（覆盖前 5 种语言、共 **423** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 96,749 | 23,951 | 13,343 | 413 |
+| Go | 96,953 | 23,954 | 13,359 | 413 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -26,13 +26,13 @@ x install caddy
 
 ## OpenSSF Scorecard 评分
 
-总评分: **9.1 / 10**
+总评分: **8.6 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install caddy
 ## 发布
 
 - **最新版本**: `v2.11.9` (2026-11-05)
-- **最近提交**: 2026-11-04
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 129 个
 
 ## 流行度
 
-- **Star**: 78,781 · **Fork**: 5,228 · **开放 issue**: 4,722 · **贡献者**: 486
+- **Star**: 78,822 · **Fork**: 5,235 · **开放 issue**: 4,725 · **贡献者**: 487
 
 ## 累计统计
 
-- **发布数**: 140 · **已合并 PR**: 2572 · **开放 PR**: 69 · **已关闭 issue**: 4520 · **开放 issue**: 202 · **提交数**: 2837
+- **发布数**: 140 · **已合并 PR**: 2576 · **开放 PR**: 68 · **已关闭 issue**: 4522 · **开放 issue**: 203 · **提交数**: 2841
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 80 | 22 | 46 | 20 | 95 |
-| last60d | 2026-09-06 | 4 | 138 | 33 | 80 | 27 | 159 |
-| 90d | 2026-08-07 | 4 | 169 | 36 | 94 | 29 | 197 |
-| last180d | 2026-05-09 | 6 | 253 | 46 | 149 | 38 | 274 |
-| 360d | 2025-11-10 | 10 | 385 | 55 | 272 | 56 | 448 |
-| last720d | 2024-11-15 | 19 | 570 | 67 | 580 | 121 | 694 |
+| 30d | 2026-10-07 | 2 | 82 | 20 | 43 | 21 | 99 |
+| last60d | 2026-09-07 | 4 | 140 | 32 | 82 | 27 | 163 |
+| 90d | 2026-08-08 | 4 | 173 | 35 | 96 | 30 | 201 |
+| last180d | 2026-05-10 | 6 | 255 | 45 | 151 | 38 | 278 |
+| 360d | 2025-11-11 | 10 | 389 | 54 | 273 | 56 | 452 |
+| last720d | 2024-11-16 | 19 | 574 | 66 | 582 | 122 | 697 |
 
 ## Release 资产
 
@@ -201,7 +201,7 @@ x install caddy
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/caddy) 上共有 **131** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**109** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/caddy) 上共有 **131** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**100** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -227,4 +227,4 @@ caddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T06:07:22Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:02:00Z._
