@@ -14,11 +14,11 @@ x install caddy
 
 ## Code insight
 
-Total: **102,052** lines of code across **423** files in the top 5 languages.
+Total: **102,657** lines of code across **424** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 97,209 | 24,009 | 13,387 | 413 |
+| Go | 97,814 | 24,132 | 13,441 | 414 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.9` (2026-11-05)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-09
 - **Assets in release**: 129
 
 ## Popularity
 
-- **Stars**: 78,878 · **Forks**: 5,246 · **Open issues**: 4,726 · **Contributors**: 489
+- **Stars**: 78,939 · **Forks**: 5,252 · **Open issues**: 4,731 · **Contributors**: 490
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 2580 · **Open PRs**: 76 · **Closed issues**: 4525 · **Open issues**: 201 · **Commits**: 2845
+- **Releases**: 140 · **Merged PRs**: 2591 · **Open PRs**: 74 · **Closed issues**: 4530 · **Open issues**: 201 · **Commits**: 2856
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 79 | 26 | 41 | 18 | 103 |
-| last60d | 2026-09-09 | 4 | 141 | 40 | 84 | 25 | 167 |
-| 90d | 2026-08-10 | 4 | 175 | 42 | 99 | 28 | 205 |
-| last180d | 2026-05-12 | 6 | 258 | 53 | 151 | 36 | 282 |
-| 360d | 2025-11-13 | 10 | 393 | 62 | 275 | 53 | 456 |
-| last720d | 2024-11-18 | 19 | 575 | 74 | 583 | 120 | 701 |
+| 30d | 2026-10-11 | 2 | 86 | 23 | 41 | 18 | 92 |
+| last60d | 2026-09-11 | 4 | 148 | 38 | 88 | 26 | 172 |
+| 90d | 2026-08-12 | 4 | 186 | 39 | 103 | 28 | 203 |
+| last180d | 2026-05-14 | 5 | 267 | 51 | 154 | 36 | 289 |
+| 360d | 2025-11-15 | 10 | 404 | 60 | 279 | 53 | 464 |
+| last720d | 2024-11-20 | 19 | 586 | 72 | 588 | 120 | 710 |
 
 ## Release assets
 
@@ -200,7 +200,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **131** distros on [repology.org](https://repology.org/project/caddy). **15** are ✅ on the latest upstream release, **97** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/caddy). **17** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -226,4 +226,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:35:06Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T06:52:48Z._
