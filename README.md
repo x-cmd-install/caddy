@@ -14,11 +14,11 @@ x install caddy
 
 ## Code insight
 
-Total: **102,860** lines of code across **424** files in the top 5 languages.
+Total: **106,342** lines of code across **439** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 98,017 | 24,148 | 13,458 | 414 |
+| Go | 101,499 | 24,368 | 13,638 | 429 |
 | Css | 2,827 | 9 | 0 | 1 |
 | Html | 1,995 | 38 | 47 | 4 |
 | Bitbake | 14 | 5 | 3 | 2 |
@@ -26,10 +26,11 @@ Total: **102,860** lines of code across **424** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **9.1 / 10**
+Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
@@ -42,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.9` (2026-11-05)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 129
 
 ## Popularity
 
-- **Stars**: 78,955 · **Forks**: 5,253 · **Open issues**: 4,733 · **Contributors**: 492
+- **Stars**: 78,999 · **Forks**: 5,254 · **Open issues**: 4,734 · **Contributors**: 493
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 2595 · **Open PRs**: 73 · **Closed issues**: 4532 · **Open issues**: 201 · **Commits**: 2860
+- **Releases**: 140 · **Merged PRs**: 2595 · **Open PRs**: 72 · **Closed issues**: 4533 · **Open issues**: 201 · **Commits**: 2889
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 88 | 20 | 43 | 18 | 96 |
-| last60d | 2026-09-12 | 4 | 151 | 36 | 89 | 26 | 176 |
-| 90d | 2026-08-13 | 4 | 190 | 38 | 105 | 28 | 207 |
-| last180d | 2026-05-15 | 5 | 271 | 50 | 154 | 35 | 293 |
-| 360d | 2025-11-16 | 10 | 408 | 59 | 281 | 53 | 468 |
-| last720d | 2024-11-21 | 19 | 590 | 71 | 589 | 120 | 714 |
+| 30d | 2026-10-13 | 2 | 83 | 18 | 40 | 18 | 125 |
+| last60d | 2026-09-13 | 4 | 149 | 35 | 88 | 27 | 205 |
+| 90d | 2026-08-14 | 4 | 190 | 37 | 105 | 29 | 236 |
+| last180d | 2026-05-16 | 5 | 271 | 49 | 153 | 36 | 322 |
+| 360d | 2025-11-17 | 10 | 407 | 58 | 281 | 54 | 497 |
+| last720d | 2024-11-22 | 19 | 588 | 70 | 588 | 120 | 742 |
 
 ## Release assets
 
@@ -200,7 +201,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **131** distros on [repology.org](https://repology.org/project/caddy). **17** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/caddy). **23** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -226,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:41:59Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T06:48:46Z._
