@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 79,029 · **Forks**: 5,257 · **Open issues**: 4,734 · **Contributors**: 493
+- **Stars**: 79,026 · **Forks**: 5,258 · **Open issues**: 4,734 · **Contributors**: 493
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 2595 · **Open PRs**: 73 · **Closed issues**: 4533 · **Open issues**: 201 · **Commits**: 2889
+- **Releases**: 140 · **Merged PRs**: 2595 · **Open PRs**: 75 · **Closed issues**: 4533 · **Open issues**: 201 · **Commits**: 2889
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 81 | 19 | 38 | 18 | 125 |
-| last60d | 2026-09-14 | 4 | 147 | 36 | 88 | 27 | 205 |
-| 90d | 2026-08-15 | 4 | 188 | 38 | 105 | 29 | 236 |
-| last180d | 2026-05-17 | 5 | 271 | 50 | 151 | 36 | 322 |
-| 360d | 2025-11-18 | 10 | 407 | 59 | 281 | 54 | 497 |
-| last720d | 2024-11-23 | 19 | 588 | 71 | 586 | 120 | 740 |
+| 30d | 2026-10-15 | 2 | 77 | 21 | 33 | 15 | 125 |
+| last60d | 2026-09-15 | 4 | 145 | 37 | 87 | 26 | 205 |
+| 90d | 2026-08-16 | 4 | 187 | 40 | 105 | 29 | 236 |
+| last180d | 2026-05-18 | 5 | 265 | 52 | 149 | 36 | 322 |
+| 360d | 2025-11-19 | 10 | 407 | 61 | 280 | 54 | 497 |
+| last720d | 2024-11-24 | 19 | 588 | 73 | 584 | 120 | 740 |
 
 ## Release assets
 
@@ -201,7 +201,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/caddy). **23** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/caddy). **24** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -227,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:05:10Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T05:53:22Z._
