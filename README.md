@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 79,050 · **Forks**: 5,264 · **Open issues**: 4,734 · **Contributors**: 492
+- **Stars**: 79,081 · **Forks**: 5,266 · **Open issues**: 4,736 · **Contributors**: 492
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 2596 · **Open PRs**: 73 · **Closed issues**: 4533 · **Open issues**: 201 · **Commits**: 2891
+- **Releases**: 140 · **Merged PRs**: 2596 · **Open PRs**: 74 · **Closed issues**: 4533 · **Open issues**: 203 · **Commits**: 2891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 79 | 18 | 32 | 13 | 127 |
-| last60d | 2026-09-16 | 4 | 146 | 35 | 87 | 26 | 207 |
-| 90d | 2026-08-17 | 4 | 188 | 38 | 105 | 29 | 238 |
-| last180d | 2026-05-19 | 5 | 265 | 50 | 148 | 36 | 324 |
-| 360d | 2025-11-20 | 10 | 405 | 59 | 279 | 54 | 499 |
-| last720d | 2024-11-25 | 19 | 589 | 71 | 583 | 119 | 742 |
+| 30d | 2026-10-17 | 2 | 71 | 17 | 29 | 14 | 111 |
+| last60d | 2026-09-17 | 4 | 145 | 36 | 86 | 28 | 200 |
+| 90d | 2026-08-18 | 4 | 188 | 39 | 105 | 31 | 236 |
+| last180d | 2026-05-20 | 5 | 261 | 51 | 147 | 38 | 311 |
+| 360d | 2025-11-21 | 10 | 403 | 60 | 279 | 56 | 496 |
+| last720d | 2024-11-26 | 19 | 589 | 72 | 583 | 121 | 742 |
 
 ## Release assets
 
@@ -201,7 +201,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/caddy). **24** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/caddy). **30** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -211,11 +211,11 @@ Reported by **132** distros on [repology.org](https://repology.org/project/caddy
 | Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
 | Arch | `2.11.7` | ⚠️ outdated |
-| Homebrew | `2.11.9` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.11.4` | ⚠️ outdated |
 | Nix unstable | `2.11.9` | ✅ latest |
 | Void | `2.11.4` | ⚠️ outdated |
-| Alpine edge | `2.11.4` | ⚠️ outdated |
+| Alpine edge | `2.11.9` | ✅ latest |
 | openSUSE Tumbleweed | `2.11.4` | ⚠️ outdated |
 
 ## Improve this data
@@ -227,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T05:53:51Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T05:53:52Z._
