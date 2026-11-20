@@ -1,3 +1,17 @@
+- repo: raspbian_testing
+  subrepo: main
+  srcname: caddy
+  binnames:
+    - caddy
+  visiblename: caddy
+  version: 2.11.4
+  origversion: 2.11.4-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - peymaneh@posteo.net
+  categories:
+    - misc
 - repo: alpine_3_23
   subrepo: community
   srcname: caddy
@@ -229,6 +243,18 @@
     - vesath@aur
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: caddy-naiveproxy-bin
+  binname: caddy-naiveproxy-bin
+  visiblename: caddy-naiveproxy-bin
+  version: 2.11.7
+  origversion: 2.11.7-1
+  status: outdated
+  summary: Caddy web server
+  maintainers:
+    - 435qb@aur
+  licenses:
+    - Apache-2.0
 - repo: chimera
   subrepo: user
   srcname: caddy
@@ -345,19 +371,6 @@
     - fallback-mnt-exherbo@repology
   categories:
     - www-servers
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: caddy
-  binname: caddy
-  visiblename: caddy
-  version: 2.11.4
-  origversion: 2.11.4_2
-  status: outdated
-  summary: Fast, cross-platform HTTP/2 web server with automatic HTTPS
-  maintainers:
-    - orphan@voidlinux.org
-  licenses:
-    - Apache-2.0
 - repo: fedora_45
   subrepo: release
   srcname: caddy
@@ -526,15 +539,19 @@
     - CC0-1.0
   categories:
     - www-servers
-- repo: wikidata
-  srcname: Q24008327
-  visiblename: Caddy
-  version: 2.11.9
+- repo: nix_stable_26_05
+  srcname: caddy
+  visiblename: caddy
+  version: 2.11.7
   origversion: null
-  status: newest
-  summary: open source web server
+  status: outdated
+  summary: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  maintainers:
+    - ysun@hey.com
+    - techknowlogick@gitea.com
+    - xiaoyin_c@qq.com
   licenses:
-    - Apache Software License 2.0
+    - Apache-2.0
 - repo: liguros_develop
   srcname: www-servers/caddy
   visiblename: www-servers/caddy
@@ -654,19 +671,6 @@
     - xiaoyin_c@qq.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_26_05
-  srcname: caddy
-  visiblename: caddy
-  version: 2.11.7
-  origversion: null
-  status: outdated
-  summary: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-  maintainers:
-    - ysun@hey.com
-    - techknowlogick@gitea.com
-    - xiaoyin_c@qq.com
-  licenses:
-    - Apache-2.0
 - repo: nix_unstable
   srcname: caddy
   visiblename: caddy
@@ -692,17 +696,6 @@
     - ports@openbsd.org
   categories:
     - www
-- repo: stalix
-  srcname: bin/caddy
-  binname: bin/caddy
-  visiblename: bin/caddy
-  version: 2.11.9
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: caddy
@@ -733,20 +726,6 @@
   summary: Fast web server with automatic HTTPS
   licenses:
     - Apache-2.0
-- repo: raspbian_testing
-  subrepo: main
-  srcname: caddy
-  binnames:
-    - caddy
-  visiblename: caddy
-  version: 2.11.4
-  origversion: 2.11.4-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - peymaneh@posteo.net
-  categories:
-    - misc
 - repo: scoop
   subrepo: main
   binname: caddy
@@ -794,6 +773,17 @@
     - Apache-2.0
   categories:
     - debug
+- repo: stalix
+  srcname: bin/caddy
+  binname: bin/caddy
+  visiblename: bin/caddy
+  version: 2.11.9
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: stalix_dev
   srcname: bin/caddy
   binname: bin/caddy
@@ -843,184 +833,208 @@
     - peymaneh@posteo.net
   categories:
     - universe/misc
-- repo: alpine_3_17
-  subrepo: community
+- repo: void_x86_64
+  subrepo: x86_64
   srcname: caddy
   binname: caddy
   visiblename: caddy
-  version: 2.6.4
-  origversion: 2.6.4-r3
+  version: 2.11.4
+  origversion: 2.11.4_2
   status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
+  summary: Fast, cross-platform HTTP/2 web server with automatic HTTPS
   maintainers:
-    - michal@polanski.me
+    - orphan@voidlinux.org
   licenses:
     - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_17
-  subrepo: community
-  srcname: caddy
-  binname: caddy-openrc
-  visiblename: caddy-openrc
-  version: 2.6.4
-  origversion: 2.6.4-r3
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
-  maintainers:
-    - michal@polanski.me
+- repo: wikidata
+  srcname: Q24008327
+  visiblename: Caddy
+  version: 2.11.9
+  origversion: null
+  status: newest
+  summary: open source web server
   licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_18
-  subrepo: community
+    - Apache Software License 2.0
+- repo: parrot
+  subrepo: parrot/main
   srcname: caddy
-  binname: caddy
+  binnames:
+    - caddy
   visiblename: caddy
-  version: 2.6.4
-  origversion: 2.6.4-r7
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_18
-  subrepo: community
-  srcname: caddy
-  binname: caddy-openrc
-  visiblename: caddy-openrc
-  version: 2.6.4
-  origversion: 2.6.4-r7
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_19
-  subrepo: community
-  srcname: caddy
-  binname: caddy
-  visiblename: caddy
-  version: 2.7.6
-  origversion: 2.7.6-r3
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_19
-  subrepo: community
-  srcname: caddy
-  binname: caddy-openrc
-  visiblename: caddy-openrc
-  version: 2.7.6
-  origversion: 2.7.6-r3
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_20
-  subrepo: community
-  srcname: caddy
-  binname: caddy
-  visiblename: caddy
-  version: 2.7.6
-  origversion: 2.7.6-r7
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_20
-  subrepo: community
-  srcname: caddy
-  binname: caddy-openrc
-  visiblename: caddy-openrc
-  version: 2.7.6
-  origversion: 2.7.6-r7
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_21
-  subrepo: community
-  srcname: caddy
-  binname: caddy
-  visiblename: caddy
-  version: 2.8.4
-  origversion: 2.8.4-r7
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_21
-  subrepo: community
-  srcname: caddy
-  binname: caddy-openrc
-  visiblename: caddy-openrc
-  version: 2.8.4
-  origversion: 2.8.4-r7
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_22
-  subrepo: community
-  srcname: caddy
-  binname: caddy
-  visiblename: caddy
-  version: 2.10.0
-  origversion: 2.10.0-r5
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: alpine_3_22
-  subrepo: community
-  srcname: caddy
-  binname: caddy-openrc
-  visiblename: caddy-openrc
-  version: 2.10.0
-  origversion: 2.10.0-r5
-  status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: aur
-  srcname: caddy-dnspod
-  binname: caddy-dnspod
-  visiblename: caddy-dnspod
   version: 2.6.2
-  origversion: 2.6.2-1
+  origversion: 2.6.2-12+deb13u1
   status: outdated
-  summary: Caddy web server
   maintainers:
-    - fallback-mnt-aur@repology
+    - team+pkg-go@tracker.debian.org
+    - peymaneh@posteo.net
+  categories:
+    - misc
+  vulnerable: true
+- repo: alpine_3_17
+  subrepo: community
+  srcname: caddy
+  binname: caddy
+  visiblename: caddy
+  version: 2.6.4
+  origversion: 2.6.4-r3
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_17
+  subrepo: community
+  srcname: caddy
+  binname: caddy-openrc
+  visiblename: caddy-openrc
+  version: 2.6.4
+  origversion: 2.6.4-r3
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_18
+  subrepo: community
+  srcname: caddy
+  binname: caddy
+  visiblename: caddy
+  version: 2.6.4
+  origversion: 2.6.4-r7
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_18
+  subrepo: community
+  srcname: caddy
+  binname: caddy-openrc
+  visiblename: caddy-openrc
+  version: 2.6.4
+  origversion: 2.6.4-r7
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: caddy
+  binname: caddy
+  visiblename: caddy
+  version: 2.7.6
+  origversion: 2.7.6-r3
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: caddy
+  binname: caddy-openrc
+  visiblename: caddy-openrc
+  version: 2.7.6
+  origversion: 2.7.6-r3
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: caddy
+  binname: caddy
+  visiblename: caddy
+  version: 2.7.6
+  origversion: 2.7.6-r7
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: caddy
+  binname: caddy-openrc
+  visiblename: caddy-openrc
+  version: 2.7.6
+  origversion: 2.7.6-r7
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: caddy
+  binname: caddy
+  visiblename: caddy
+  version: 2.8.4
+  origversion: 2.8.4-r7
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: caddy
+  binname: caddy-openrc
+  visiblename: caddy-openrc
+  version: 2.8.4
+  origversion: 2.8.4-r7
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: caddy
+  binname: caddy
+  visiblename: caddy
+  version: 2.10.0
+  origversion: 2.10.0-r5
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: caddy
+  binname: caddy-openrc
+  visiblename: caddy-openrc
+  version: 2.10.0
+  origversion: 2.10.0-r5
+  status: outdated
+  summary: Fast, multi-platform web server with automatic HTTPS (OpenRC init scripts)
+  maintainers:
+    - michal@polanski.me
   licenses:
     - Apache-2.0
   vulnerable: true
@@ -1064,6 +1078,19 @@
     - Apache-2.0
   vulnerable: true
 - repo: aur
+  srcname: caddy-dnspod
+  binname: caddy-dnspod
+  visiblename: caddy-dnspod
+  version: 2.6.2
+  origversion: 2.6.2-1
+  status: outdated
+  summary: Caddy web server
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: aur
   srcname: caddy-multiplugins
   binname: caddy-multiplugins
   visiblename: caddy-multiplugins
@@ -1086,19 +1113,6 @@
   summary: Caddy web server
   maintainers:
     - 1ridic@aur
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: aur
-  srcname: caddy-naiveproxy-bin
-  binname: caddy-naiveproxy-bin
-  visiblename: caddy-naiveproxy-bin
-  version: 2.10.0
-  origversion: 2.10.0-1
-  status: outdated
-  summary: Caddy web server
-  maintainers:
-    - 435qb@aur
   licenses:
     - Apache-2.0
   vulnerable: true
@@ -1251,37 +1265,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_39
-  subrepo: release
-  srcname: caddy
-  binnames:
-    - caddy
-    - caddy-debuginfo
-    - caddy-debugsource
-  visiblename: caddy
-  version: 2.7.4
-  origversion: 2.7.4-1.fc39
-  status: legacy
-  summary: Web server with automatic HTTPS
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND BSD-2-Clause-Views AND CC0-1.0 AND ISC AND MPL-2.0
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: nix_stable_24_11
-  srcname: caddy
-  visiblename: caddy
-  version: 2.8.4
-  origversion: null
-  status: outdated
-  summary: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-  maintainers:
-    - brightone@protonmail.com
-    - nix@emilylange.de
-    - techknowlogick@gitea.com
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: fedora_39
   subrepo: updates
   srcname: caddy
   binnames:
@@ -1298,18 +1281,22 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: opensuse_leap_15_6
-  subrepo: updates/backports
+- repo: fedora_39
+  subrepo: release
   srcname: caddy
+  binnames:
+    - caddy
+    - caddy-debuginfo
+    - caddy-debugsource
   visiblename: caddy
-  version: 2.8.4
-  origversion: 2.8.4-bp156.3.3.1
+  version: 2.7.4
+  origversion: 2.7.4-1.fc39
   status: legacy
-  summary: Fast, multi-platform web server with automatic HTTPS
+  summary: Web server with automatic HTTPS
   licenses:
-    - Apache-2.0
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND BSD-2-Clause-Views AND CC0-1.0 AND ISC AND MPL-2.0
   categories:
-    - Productivity/Networking/Web/Proxy
+    - Unspecified
   vulnerable: true
 - repo: fedora_40
   subrepo: release
@@ -1344,6 +1331,21 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_42
+  subrepo: updates
+  srcname: caddy
+  binnames:
+    - caddy
+  visiblename: caddy
+  version: 2.10.0
+  origversion: 2.10.0-1.fc42
+  status: outdated
+  summary: Web server with automatic HTTPS
+  licenses:
+    - Apache-2.0 AND BSD-1-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_42
   subrepo: release
   srcname: caddy
   binnames:
@@ -1358,20 +1360,18 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: fedora_42
-  subrepo: updates
+- repo: opensuse_leap_15_6
+  subrepo: updates/backports
   srcname: caddy
-  binnames:
-    - caddy
   visiblename: caddy
-  version: 2.10.0
-  origversion: 2.10.0-1.fc42
-  status: outdated
-  summary: Web server with automatic HTTPS
+  version: 2.8.4
+  origversion: 2.8.4-bp156.3.3.1
+  status: legacy
+  summary: Fast, multi-platform web server with automatic HTTPS
   licenses:
-    - Apache-2.0 AND BSD-1-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
+    - Apache-2.0
   categories:
-    - Unspecified
+    - Productivity/Networking/Web/Proxy
   vulnerable: true
 - repo: fedora_43
   subrepo: release
@@ -1404,21 +1404,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_44
-  subrepo: release
-  srcname: caddy
-  binnames:
-    - caddy
-  visiblename: caddy
-  version: 2.10.2
-  origversion: 2.10.2-5.fc44
-  status: outdated
-  summary: Web server with automatic HTTPS
-  licenses:
-    - Apache-2.0 AND BSD-1-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_44
   subrepo: updates
   srcname: caddy
   binnames:
@@ -1430,6 +1415,21 @@
   summary: Web server with automatic HTTPS
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_44
+  subrepo: release
+  srcname: caddy
+  binnames:
+    - caddy
+  visiblename: caddy
+  version: 2.10.2
+  origversion: 2.10.2-5.fc44
+  status: outdated
+  summary: Web server with automatic HTTPS
+  licenses:
+    - Apache-2.0 AND BSD-1-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
   vulnerable: true
@@ -1567,6 +1567,20 @@
   licenses:
     - Apache-2.0
   vulnerable: true
+- repo: nix_stable_24_11
+  srcname: caddy
+  visiblename: caddy
+  version: 2.8.4
+  origversion: null
+  status: outdated
+  summary: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  maintainers:
+    - brightone@protonmail.com
+    - nix@emilylange.de
+    - techknowlogick@gitea.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
 - repo: nix_stable_25_05
   srcname: caddy
   visiblename: caddy
@@ -1582,18 +1596,20 @@
   licenses:
     - Apache-2.0
   vulnerable: true
-- repo: opensuse_leap_15_5
-  subrepo: updates/backports
+- repo: raspbian_stable
+  subrepo: main
   srcname: caddy
+  binnames:
+    - caddy
   visiblename: caddy
-  version: 2.8.4
-  origversion: 2.8.4-bp155.2.3.1
+  version: 2.6.2
+  origversion: 2.6.2-12+deb13u1
   status: outdated
-  summary: Fast, multi-platform web server with automatic HTTPS
-  licenses:
-    - Apache-2.0
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - peymaneh@posteo.net
   categories:
-    - Productivity/Networking/Web/Proxy
+    - misc
   vulnerable: true
 - repo: opensuse_leap_15_5
   subrepo: main/oss
@@ -1602,6 +1618,19 @@
   version: 2.6.3
   origversion: 2.6.3-bp155.1.8
   status: legacy
+  summary: Fast, multi-platform web server with automatic HTTPS
+  licenses:
+    - Apache-2.0
+  categories:
+    - Productivity/Networking/Web/Proxy
+  vulnerable: true
+- repo: opensuse_leap_15_5
+  subrepo: updates/backports
+  srcname: caddy
+  visiblename: caddy
+  version: 2.8.4
+  origversion: 2.8.4-bp155.2.3.1
+  status: outdated
   summary: Fast, multi-platform web server with automatic HTTPS
   licenses:
     - Apache-2.0
@@ -1649,21 +1678,6 @@
   vulnerable: true
 - repo: parrot
   subrepo: parrot-updates/main
-  srcname: caddy
-  binnames:
-    - caddy
-  visiblename: caddy
-  version: 2.6.2
-  origversion: 2.6.2-12+deb13u1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - peymaneh@posteo.net
-  categories:
-    - misc
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot/main
   srcname: caddy
   binnames:
     - caddy
@@ -1746,21 +1760,6 @@
   categories:
     - misc
   vulnerable: true
-- repo: raspbian_stable
-  subrepo: main
-  srcname: caddy
-  binnames:
-    - caddy
-  visiblename: caddy
-  version: 2.6.2
-  origversion: 2.6.2-12+deb13u1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - peymaneh@posteo.net
-  categories:
-    - misc
-  vulnerable: true
 - repo: rosa_13
   subrepo: contrib/release
   srcname: caddy
@@ -1779,21 +1778,6 @@
     - System/Servers
   vulnerable: true
 - repo: ubuntu_24_04
-  subrepo: noble-updates/universe
-  srcname: caddy
-  binnames:
-    - caddy
-  visiblename: caddy
-  version: 2.6.2
-  origversion: 2.6.2-6ubuntu0.24.04.3
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - peymaneh@posteo.net
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: caddy
   binnames:
@@ -1804,6 +1788,21 @@
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
+    - peymaneh@posteo.net
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: caddy
+  binnames:
+    - caddy
+  visiblename: caddy
+  version: 2.6.2
+  origversion: 2.6.2-6ubuntu0.24.04.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - peymaneh@posteo.net
   categories:
     - universe/misc
