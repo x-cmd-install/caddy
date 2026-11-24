@@ -30,7 +30,7 @@ Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.11.9` (2026-11-05)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-24
 - **Assets in release**: 129
 
 ## Popularity
 
-- **Stars**: 79,428 · **Forks**: 5,319 · **Open issues**: 4,745 · **Contributors**: 494
+- **Stars**: 79,474 · **Forks**: 5,323 · **Open issues**: 4,745 · **Contributors**: 494
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 2599 · **Open PRs**: 88 · **Closed issues**: 4537 · **Open issues**: 208 · **Commits**: 2893
+- **Releases**: 140 · **Merged PRs**: 2599 · **Open PRs**: 88 · **Closed issues**: 4537 · **Open issues**: 208 · **Commits**: 2894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 64 | 31 | 25 | 18 | 99 |
-| last60d | 2026-09-24 | 4 | 142 | 48 | 84 | 32 | 190 |
-| 90d | 2026-08-25 | 4 | 182 | 53 | 103 | 36 | 230 |
-| last180d | 2026-05-27 | 5 | 258 | 64 | 149 | 42 | 305 |
-| 360d | 2025-11-28 | 10 | 403 | 74 | 278 | 59 | 493 |
-| last720d | 2024-12-03 | 19 | 588 | 86 | 582 | 123 | 741 |
+| 30d | 2026-10-25 | 2 | 63 | 31 | 25 | 18 | 99 |
+| last60d | 2026-09-25 | 4 | 139 | 47 | 82 | 31 | 190 |
+| 90d | 2026-08-26 | 4 | 182 | 53 | 103 | 36 | 230 |
+| last180d | 2026-05-28 | 5 | 257 | 62 | 148 | 42 | 305 |
+| 360d | 2025-11-29 | 10 | 402 | 74 | 278 | 58 | 493 |
+| last720d | 2024-12-04 | 19 | 587 | 86 | 581 | 123 | 741 |
 
 ## Release assets
 
@@ -227,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:01:22Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:27:02Z._
