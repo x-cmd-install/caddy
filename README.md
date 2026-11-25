@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 79,474 · **Forks**: 5,323 · **Open issues**: 4,745 · **Contributors**: 494
+- **Stars**: 79,515 · **Forks**: 5,330 · **Open issues**: 4,746 · **Contributors**: 494
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 2599 · **Open PRs**: 88 · **Closed issues**: 4537 · **Open issues**: 208 · **Commits**: 2894
+- **Releases**: 140 · **Merged PRs**: 2599 · **Open PRs**: 89 · **Closed issues**: 4538 · **Open issues**: 208 · **Commits**: 2894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 63 | 31 | 25 | 18 | 99 |
-| last60d | 2026-09-25 | 4 | 139 | 47 | 82 | 31 | 190 |
-| 90d | 2026-08-26 | 4 | 182 | 53 | 103 | 36 | 230 |
-| last180d | 2026-05-28 | 5 | 257 | 62 | 148 | 42 | 305 |
-| 360d | 2025-11-29 | 10 | 402 | 74 | 278 | 58 | 493 |
-| last720d | 2024-12-04 | 19 | 587 | 86 | 581 | 123 | 741 |
+| 30d | 2026-10-26 | 2 | 61 | 31 | 26 | 18 | 99 |
+| last60d | 2026-09-26 | 4 | 138 | 48 | 83 | 31 | 190 |
+| 90d | 2026-08-27 | 4 | 182 | 54 | 103 | 36 | 230 |
+| last180d | 2026-05-29 | 5 | 256 | 63 | 149 | 42 | 305 |
+| 360d | 2025-11-30 | 10 | 402 | 75 | 279 | 58 | 493 |
+| last720d | 2024-12-05 | 19 | 586 | 87 | 579 | 123 | 739 |
 
 ## Release assets
 
@@ -211,7 +211,7 @@ Reported by **133** distros on [repology.org](https://repology.org/project/caddy
 | Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
 | Arch | `2.11.7` | ⚠️ outdated |
-| Homebrew | `2.11.9` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.11.9` | ✅ latest |
 | Nix unstable | `2.11.9` | ✅ latest |
 | Void | `2.11.4` | ⚠️ outdated |
@@ -227,4 +227,4 @@ Install metadata for caddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:27:02Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T07:58:18Z._
