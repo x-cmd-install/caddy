@@ -48,22 +48,22 @@ x install caddy
 
 ## 流行度
 
-- **Star**: 79,515 · **Fork**: 5,330 · **开放 issue**: 4,746 · **贡献者**: 494
+- **Star**: 79,566 · **Fork**: 5,342 · **开放 issue**: 4,748 · **贡献者**: 494
 
 ## 累计统计
 
-- **发布数**: 140 · **已合并 PR**: 2599 · **开放 PR**: 89 · **已关闭 issue**: 4538 · **开放 issue**: 208 · **提交数**: 2894
+- **发布数**: 140 · **已合并 PR**: 2599 · **开放 PR**: 92 · **已关闭 issue**: 4538 · **开放 issue**: 210 · **提交数**: 2894
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 61 | 31 | 26 | 18 | 99 |
-| last60d | 2026-09-26 | 4 | 138 | 48 | 83 | 31 | 190 |
-| 90d | 2026-08-27 | 4 | 182 | 54 | 103 | 36 | 230 |
-| last180d | 2026-05-29 | 5 | 256 | 63 | 149 | 42 | 305 |
-| 360d | 2025-11-30 | 10 | 402 | 75 | 279 | 58 | 493 |
-| last720d | 2024-12-05 | 19 | 586 | 87 | 579 | 123 | 739 |
+| 30d | 2026-10-27 | 2 | 57 | 34 | 21 | 17 | 99 |
+| last60d | 2026-09-27 | 4 | 137 | 51 | 82 | 33 | 190 |
+| 90d | 2026-08-28 | 4 | 181 | 57 | 103 | 38 | 230 |
+| last180d | 2026-05-30 | 5 | 256 | 66 | 149 | 44 | 305 |
+| 360d | 2025-12-01 | 10 | 402 | 78 | 278 | 60 | 493 |
+| last720d | 2024-12-06 | 19 | 586 | 90 | 578 | 125 | 738 |
 
 ## Release 资产
 
@@ -199,25 +199,6 @@ x install caddy
 | [caddy_2.11.9_windows_arm64.zip](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.zip) | 15.7 MiB | `native/win/arm64` |
 | [caddy_2.11.9_windows_arm64.zip.sig](https://github.com/caddyserver/caddy/releases/download/v2.11.9/caddy_2.11.9_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/caddy) 上共有 **133** 个发行版报告此项目。**32** 个 ✅ 已是最新上游版本，**82** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.11.4` | ⚠️ outdated |
-| Debian 14 | `2.11.4` | ⚠️ outdated |
-| Debian 13 | `2.6.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.6.2` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.6.2` | ⚠️ outdated |
-| Arch | `2.11.7` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `2.11.9` | ✅ latest |
-| Nix unstable | `2.11.9` | ✅ latest |
-| Void | `2.11.4` | ⚠️ outdated |
-| Alpine edge | `2.11.9` | ✅ latest |
-| openSUSE Tumbleweed | `2.11.4` | ⚠️ outdated |
-
 ## 改进这些数据
 
 caddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `caddy` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -227,4 +208,4 @@ caddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T07:58:19Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T07:50:58Z._
